@@ -1,0 +1,1 @@
+# hassbot-data
