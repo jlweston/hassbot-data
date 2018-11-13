@@ -1090,5 +1090,12 @@
     "CommandAuthor": "<@!331436841817604097>",
     "CommandCreatedDate": "2018-11-12T16:00:12.6368625-05:00",
     "CommandCount": 22
+  },
+  {
+    "CommandName": "FOOBAR",
+    "CommandData": "THIS IS FOO BAR!",
+    "CommandAuthor": "<@!331436841817604097>",
+    "CommandCreatedDate": "2018-11-12T16:00:12.6368625-05:00",
+    "CommandCount": 22
   }
 ]
