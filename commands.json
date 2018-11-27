@@ -15,7 +15,7 @@
   },
   {
     "CommandName": "xy",
-    "CommandData": "The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.\nThe problem occurs when people get stuck on what they believe is the solution and are unable step back and explain the issue in full.\<https://en.wikipedia.org/wiki/XY_problem>",
+    "CommandData": "The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.\nThe problem occurs when people get stuck on what they believe is the solution and are unable to step back and explain the issue in full.\n<https://en.wikipedia.org/wiki/XY_problem>",
     "CommandAuthor": "<@!194499346027249664>",
     "CommandCreatedDate": "2018-02-09T13:53:50.2879196-05:00",
     "CommandCount": 0
