@@ -1097,5 +1097,12 @@
     "CommandAuthor": "<@!331436841817604097>",
     "CommandCreatedDate": "2018-11-12T16:00:12.6368625-05:00",
     "CommandCount": 22
+  },
+  {
+    "CommandName": "owntracks",
+    "CommandData": "Remove all reference to the `owntracks` device tracker and set up the integration as explained in <https://www.home-assistant.io/components/owntracks/>",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2018-12-01T20:06:00.1234567-00:00",
+    "CommandCount": 0
   }
 ]
