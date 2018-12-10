@@ -1104,5 +1104,12 @@
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-01T20:06:00.1234567-00:00",
     "CommandCount": 0
+  },
+  {
+    "CommandName": "issues",
+    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\nCheck <https://github.com/home-assistant/home-assistant/issues> for the backend, <https://github.com/home-assistant/home-assistant-polymer/issues> for the UI, and <https://github.com/home-assistant/home-assistant.github.io/issues> for the documentation.",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2018-12-10T16:06:00.1234567-00:00",
+    "CommandCount": 0
   }
 ]
