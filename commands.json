@@ -1111,5 +1111,12 @@
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-10T16:06:00.1234567-00:00",
     "CommandCount": 0
+  },
+  {
+    "CommandName": "llat",
+    "CommandData": "The LLAT, or Long Lived Access Token can be found in your user profile (see <https://www.home-assistant.io/docs/authentication/#your-account-profile>). For examples of using it for the API see the API docs at <https://developers.home-assistant.io/docs/en/external_api_rest.html>",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2018-12-11T20:36:00.1234567-00:00",
+    "CommandCount": 0
   }
 ]
