@@ -1120,8 +1120,8 @@
     "CommandCount": 0
   },
   {
-    "CommandName": "vem",
-    "CommandData": "Help us help you. To quickly explain your environment please specify V/E/M\n\n- Version - Which version of Home Assistant are you running?\n  Example: 0.84.3, 0.82.0, 0.85.beta.1\n- Enviroment - How are you running Home Assistant?\n  Example: venv, venv-WSL, docker, hassio, native\n- Frontend: - Which kind of frontend configuration are you using?\n  Example: auto, manual, yaml, legacy (not lovelace)\n\nExamples: 0.84.3/venv/yaml",
+    "CommandName": "vef",
+    "CommandData": "Help us help you. To quickly explain your environment please specify V/E/F\n\n- Version - Which version of Home Assistant are you running?\n  Example: 0.84.3, 0.82.0, 0.85.beta.1\n- Enviroment - How are you running Home Assistant?\n  Example: venv, venv-WSL, docker, hassio, native\n- Frontend: - Which kind of frontend configuration are you using?\n  Example: auto, manual, yaml, legacy (not lovelace)\n\nExamples: 0.84.3/venv/yaml",
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-17T19:54:00.1234567-00:00",
     "CommandCount": 0
