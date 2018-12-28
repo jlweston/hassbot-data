@@ -610,7 +610,7 @@
   },
   {
     "CommandName": "faq",
-    "CommandData": "Please read the FAQ: <https://home-assistant.io/faq/>",
+    "CommandData": "There are a number of  FAQs at <https://home-assistant.io/faq/>, including one explaining the difference between Home Assistant (the software) and Hass.io (an installer) <https://www.home-assistant.io/faq/#home-assistant-vs-hassio>.",
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-07-23T15:23:06.3975029-04:00",
     "CommandCount": 5
