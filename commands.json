@@ -1125,5 +1125,12 @@
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-17T19:54:00.1234567-00:00",
     "CommandCount": 0
+  },
+  {
+    "CommandName": "check",
+    "CommandData": "***Always*** run the configuration check *command* when you make changes (<https://www.home-assistant.io/docs/configuration/troubleshooting/#problems-with-the-configuration>). Don't trust the UI check - it misses some problems.",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2018-12-28T09:34:00.1234567-00:00",
+    "CommandCount": 0
   }
 ]
