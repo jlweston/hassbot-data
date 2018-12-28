@@ -1134,7 +1134,7 @@
     "CommandCount": 0
   },
   {
-    "CommandName": "list",
+    "CommandName": "list-commands",
     "CommandData": "Want to see the full list of commands for the bot? Try ```curl -sSL https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json | jq .[].CommandName --raw-output | grep rule```, or the raw data at <https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json>",
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-28T16:52:00.1234567-00:00",
