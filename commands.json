@@ -119,13 +119,6 @@
     "CommandCount": 1
   },
   {
-    "CommandName": "vasiley_fish",
-    "CommandData": "<https://github.com/Vasiley/Home-Assistant_FishTank>",
-    "CommandAuthor": "<@!284395792800677889>",
-    "CommandCreatedDate": "2018-03-16T17:02:17.1464569-04:00",
-    "CommandCount": 1
-  },
-  {
     "CommandName": "interference",
     "CommandData": "https://cdn.discordapp.com/attachments/330944238910963714/353573816464834560/wifi-zigbee-channels.png",
     "CommandAuthor": "<@!284395792800677889>",
@@ -364,13 +357,6 @@
     "CommandCount": 2
   },
   {
-    "CommandName": "custom_ui",
-    "CommandData": "<https://github.com/andrey-git/home-assistant-custom-ui>",
-    "CommandAuthor": "<@!284395792800677889>",
-    "CommandCreatedDate": "2018-04-01T21:05:07.3683349-04:00",
-    "CommandCount": 3
-  },
-  {
     "CommandName": "haaska",
     "CommandData": "Use <https://github.com/auchter/haaska> to communicate with your Alexa.",
     "CommandAuthor": "<@!284395792800677889>",
@@ -390,13 +376,6 @@
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-04-05T09:33:19.4444453-04:00",
     "CommandCount": 3
-  },
-  {
-    "CommandName": "dale",
-    "CommandData": "AKA Dale Higgs, the guru and codesmith ninja (aka Jinja Ninja) who cures most of our hair-pulling: <https://github.com/dale3h/homeassistant-config>\n\nIf you have received any significant help on the Home Assistant Discord server, it is likely due to Dale's expertise and general good-natured spirit.",
-    "CommandAuthor": "<@!284395792800677889>",
-    "CommandCreatedDate": "2018-04-12T15:04:24.1425423-04:00",
-    "CommandCount": 2
   },
   {
     "CommandName": "hassbian-config",
@@ -453,13 +432,6 @@
     "CommandAuthor": "<@!332579266623438848>",
     "CommandCreatedDate": "2018-04-21T13:24:49.1128962-04:00",
     "CommandCount": 8
-  },
-  {
-    "CommandName": "default_view",
-    "CommandData": "By default, every group appears in the **HOME** tab. If you create the group `default_view` it will *replace* the contents of the **HOME** tab so you can customize the **HOME** tab as you wish.\n```yaml\ngroup:\n  default_view:\n    view: yes\n    name: \"House of Cards\"\n    icon: mdi:cards\n    entities:\n      - group.kitchen\n      - group.awesome_people\n      - group.climate\n      - sensor.time\n      - sensor.bedroom_temp\n      - device_tracker.dad_smith\n```",
-    "CommandAuthor": "<@!284395792800677889>",
-    "CommandCreatedDate": "2018-04-22T16:11:06.5180632-04:00",
-    "CommandCount": 2
   },
   {
     "CommandName": "floorplan",
@@ -530,13 +502,6 @@
     "CommandAuthor": "<@!331436841817604097>",
     "CommandCreatedDate": "2018-06-07T14:16:19.7117049-04:00",
     "CommandCount": 16
-  },
-  {
-    "CommandName": "ccostan_repo",
-    "CommandData": "Be sure to follow <https://github.com/CCOSTAN/Home-AssistantConfig#-home-assistant-config-by-ccostan>",
-    "CommandAuthor": "<@!284395792800677889>",
-    "CommandCreatedDate": "2018-06-08T09:46:39.5628811-04:00",
-    "CommandCount": 5
   },
   {
     "CommandName": "norien",
@@ -715,7 +680,7 @@
   },
   {
     "CommandName": "group",
-    "CommandData": "Groups allow the user to combine multiple entities into one, and create views in the default dashboard. See <https://home-assistant.io/components/group/> for information.",
+    "CommandData": "Groups allow the user to combine multiple entities into one. See <https://home-assistant.io/components/group/> for information.",
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-08-28T11:42:28.3933735-04:00",
     "CommandCount": 12
@@ -1138,6 +1103,13 @@
     "CommandData": "Want to see the full list of commands for the bot? Try \n```\ncurl -sSL https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json | jq .[].CommandName --raw-output | grep rule\n```\nOr the raw data at <https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json>",
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2018-12-28T16:52:00.1234567-00:00",
+    "CommandCount": 0
+  },
+  {
+    "CommandName": "custom-cards",
+    "CommandData": "Head over to <https://github.com/custom-cards> to see a selection of community made custom_cards for Home Assistant?",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2019-01-07T21:32:00.1234567-00:00",
     "CommandCount": 0
   }
 ]
