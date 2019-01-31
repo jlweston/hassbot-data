@@ -1111,5 +1111,12 @@
     "CommandAuthor": "<@!284395792800677889>",
     "CommandCreatedDate": "2019-01-07T21:32:00.1234567-00:00",
     "CommandCount": 0
+  },
+  {
+    "CommandName": "cards",
+    "CommandData": "Head over to <https://sharethelove.io/custom-resources/cards> to see a selection of community made custom cards for Home Assistant?",
+    "CommandAuthor": "<@!284395792800677889>",
+    "CommandCreatedDate": "2019-01-31T07:17:00.1234567-00:00",
+    "CommandCount": 0
   }
 ]
