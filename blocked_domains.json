@@ -1,6 +1,11 @@
 {
-  "blocked_domains": [
-    "pasteboard.co",
-    "yahoo.com"
-  ]
+	"blocked_domains": [{
+			"url": "pasteboard.co",
+			"reason": "Virus detected!"
+		},
+		{
+			"url": "facebook.com",
+			"reason": "Caught stealing your privacy!"
+		}
+	]
 }
