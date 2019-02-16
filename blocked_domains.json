@@ -1,12 +1,10 @@
-{
-	"BlockedDomains": [
-		{
-			"Url": "pasteboard.co",
-			"Reason": "Virus detected!"
-		},
-		{
-			"Url": "facebook.com",
-			"Reason": "Caught stealing your privacy!"
-		}
-	]
-}
+[
+    {
+        "Url": "pasteboard.co",
+        "Reason": "Virus detected!"
+    },
+    {
+	"Url": "facebook.com",
+	"Reason": "Caught stealing your privacy!"
+    }
+]
