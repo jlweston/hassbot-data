@@ -1,14 +1,17 @@
 [
 	{
 		"Url": "pasteboard.co",
-		"Reason": "Virus detected!"
+		"Reason": "Virus detected!",
+		"Ban": "False"
 	},
 	{
 		"Url": "facebook.com",
-		"Reason": "Caught stealing your privacy!"
+		"Reason": "Caught stealing your privacy!",
+		"Ban": "False"
 	},
 	{
 		"Url": "discord.amazingsexdating.com",
-		"Reason": "SPAM!"
+		"Reason": "SPAM!",
+		"Ban": "True"
 	}
 ]
