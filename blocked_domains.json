@@ -1,7 +1,8 @@
 [
 	{
 		"Url": "pasteboard.co",
-		"Reason": "Virus detected!"},
+		"Reason": "Virus detected!"
+	},
 	{
 		"Url": "facebook.com",
 		"Reason": "Caught stealing your privacy!"
