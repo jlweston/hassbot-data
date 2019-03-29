@@ -646,5 +646,9 @@
   {
     "CommandName": "cards",
     "CommandData": "Head over to <https://sharethelove.io/custom-resources/cards> to see a selection of community made custom cards for Home Assistant?"
+  },
+  {
+    "CommandName": "websocket",
+    "CommandData": "Add this contribution <https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket> for the current best method of connecting Home Assistant and Node-Red"
   }
 ]
