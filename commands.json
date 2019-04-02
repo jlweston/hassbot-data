@@ -650,5 +650,9 @@
   {
     "CommandName": "websocket",
     "CommandData": "Add this contribution <https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket> for the current best method of connecting Home Assistant and Node-Red"
+  },
+  {
+    "CommandName": "lovelace-plugins",
+    "CommandData": "Follow this guide to add your first custom plugin to your lovelace configuration <https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins>"
   }
 ]
