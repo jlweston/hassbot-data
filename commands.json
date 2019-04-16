@@ -5,7 +5,7 @@
   },
   {
     "CommandName": "share",
-    "CommandData": "Please use <https://www.hastebin.com/> or <https://paste.ubuntu.com/> to share code."
+    "CommandData": "Please use <https://www.hastebin.com/> or <https://paste.ubuntu.com/> to share code or logs."
   },
   {
     "CommandName": "z-wave",
