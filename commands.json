@@ -389,7 +389,7 @@
   },
   {
     "CommandName": "Videos",
-    "CommandData": "They are great too watch but are usually out of date QUICK.... [Best to read the DOC'S](https://www.home-assistant.io/docs/)"
+    "CommandData": "They are great to watch but are usually out of date QUICK.... [Best to read the DOC'S](https://www.home-assistant.io/docs/)"
   },
   {
     "CommandName": "hassbian_suites",
@@ -649,7 +649,7 @@
   },
   {
     "CommandName": "websocket",
-    "CommandData": "Add this contribution <https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket> for the current best method of connecting Home Assistant and Node-Red"
+    "CommandData": "Add [**this contribution**](https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket) for the current best method of connecting Home Assistant and Node-Red"
   },
   {
     "CommandName": "lovelace-plugins",
