@@ -653,6 +653,6 @@
   },
   {
     "CommandName": "lovelace-plugins",
-    "CommandData": "Follow this guide to add your first custom plugin to your lovelace configuration <https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins>"
+    "CommandData": "Follow [**this guide**](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins) to add your first custom plugin to your lovelace configuration"
   }
 ]
