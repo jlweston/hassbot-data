@@ -654,5 +654,9 @@
   {
     "CommandName": "lovelace-plugins",
     "CommandData": "Follow [**this guide**](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins) to add your first custom plugin to your lovelace configuration"
+  },
+  {
+    "CommandName": "404",
+    "CommandData": "**404** Error for docker usually is a result of one of these things:\n\n- The image tag you are trying to use does not exist (if this is the case you will see the word 'manifest' in the error)\n\n- There is not enough space left on the device to download the new container."
   }
 ]
