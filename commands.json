@@ -309,7 +309,7 @@
   },
   {
     "CommandName": "getting_started",
-    "CommandData": "When you're getting started, take the time to read <https://home-assistant.io/docs/> and have a look at the supported components (<https://home-assistant.io/components/>). You can find some worked examples at <https://home-assistant.io/cookbook/> and people's live GitHub repositories at <https://github.com/search?o=desc&q=topic%3Ahome-assistant-config&s=updated&type=Repositories>."
+    "CommandData": "When you're getting started, take the time to read [the docs](https://home-assistant.io/docs/) and have a look at the [supported components](https://home-assistant.io/components/). Check out some [worked examples](https://home-assistant.io/cookbook/) and people's live [GitHub repositories](https://github.com/search?o=desc&q=topic%3Ahome-assistant-config&s=updated&type=Repositories)."
   },
   {
     "CommandName": "rule4",
@@ -329,15 +329,15 @@
   },
   {
     "CommandName": "automation",
-    "CommandData": "An automation consists of a trigger section (describes the events that cause the automation to run), a condition section (to limit when the automation runs), and an action section (to say what to do). See <https://home-assistant.io/docs/automation/> for more information"
+    "CommandData": "[An automation](https://home-assistant.io/docs/automation/) consists of a trigger section (describes the events that cause the automation to run), a condition section (to limit when the automation runs), and an action section (to say what to do)."
   },
   {
     "CommandName": "vasiley_main",
-    "CommandData": "Have a Poke around something may help https://github.com/Vasiley/Home-Assistant-Main"
+    "CommandData": "Have a [Poke around](https://github.com/Vasiley/Home-Assistant-Main) something may help"
   },
   {
     "CommandName": "faq",
-    "CommandData": "There are a number of  FAQs at <https://home-assistant.io/faq/>, including one explaining the difference between Home Assistant (the software) and Hass.io (an installer) <https://www.home-assistant.io/faq/#home-assistant-vs-hassio>."
+    "CommandData": "[List of FAQs](https://home-assistant.io/faq/), including one explaining the difference between [Home Assistant (the software) and Hass.io (an installer)](https://www.home-assistant.io/faq/#home-assistant-vs-hassio)."
   },
   {
     "CommandName": "persistence",
@@ -345,7 +345,7 @@
   },
   {
     "CommandName": "yaml_anchor",
-    "CommandData": "YAML has a handy feature called *anchors*, which let you easily duplicate content across your document: <https://github.com/dale3h/homeassistant-config/blob/master/examples/learn_yaml.yaml#L105-L122>"
+    "CommandData": "YAML has a handy feature called [*anchors*](https://github.com/dale3h/homeassistant-config/blob/master/examples/learn_yaml.yaml#L105-L122), which let you easily duplicate content across your document"
   },
   {
     "CommandName": "padawan",
@@ -357,19 +357,19 @@
   },
   {
     "CommandName": "cookbook",
-    "CommandData": "The cookbook is a list of example automations and can be found at <https://home-assistant.io/cookbook/>. The cookbook also contains links to find people's GitHub copies of their installs."
+    "CommandData": "[The cookbook](https://home-assistant.io/cookbook/) is a list of example automations. The cookbook also contains links to find people's GitHub copies of their installs."
   },
   {
     "CommandName": "github",
-    "CommandData": "Check out <@!330904501299183616>'s page for a good cheat sheet: <https://github.com/arsaboo/homeassistant-config/blob/master/HASS%20Cheatsheet.md#backing-up-configurations-on-github>"
+    "CommandData": "Check out <@!330904501299183616>'s page for a good [cheat sheet](https://github.com/arsaboo/homeassistant-config/blob/master/HASS%20Cheatsheet.md#backing-up-configurations-on-github)"
   },
   {
     "CommandName": "customize",
-    "CommandData": "By default, all of your devices will be visible and have a default icon determined by their domain. See <https://home-assistant.io/docs/configuration/customizing-devices/> for how to change that."
+    "CommandData": "By default, all of your devices will be visible and have a default icon determined by their domain. See [customizing devices](https://home-assistant.io/docs/configuration/customizing-devices/) for how to change that."
   },
   {
     "CommandName": "learn_yaml",
-    "CommandData": "Learn YAML in Y Minutes: <https://github.com/dale3h/homeassistant-config/blob/master/examples/learn_yaml.yaml>"
+    "CommandData": "[Learn YAML](https://github.com/dale3h/homeassistant-config/blob/master/examples/learn_yaml.yaml) in Y Minutes"
   },
   {
     "CommandName": "addon-security",
@@ -377,39 +377,39 @@
   },
   {
     "CommandName": "rpi-clone",
-    "CommandData": "A tool for creating and updating a bootable image of your entire install, to another SD card (in a micro SD card reader) <https://github.com/billw2/rpi-clone>"
+    "CommandData": "[A tool](https://github.com/billw2/rpi-clone) for creating and updating a bootable image of your entire install, to another SD card (in a micro SD card reader)"
   },
   {
     "CommandName": "split_config",
-    "CommandData": "Split Configuration: <https://home-assistant.io/docs/configuration/splitting_configuration/>"
+    "CommandData": "[Split Configuration](https://home-assistant.io/docs/configuration/splitting_configuration/)"
   },
   {
     "CommandName": "nuc",
-    "CommandData": "To setup Home Assistant on Intel NUC i7, follow the guide <https://chris.0x711.de/index.php/2018/01/31/setting-up-home-assistant-in-a-virtual-environment-on-intel-nuc/>"
+    "CommandData": "To setup Home Assistant on Intel NUC i7, follow [this guide](https://chris.0x711.de/index.php/2018/01/31/setting-up-home-assistant-in-a-virtual-environment-on-intel-nuc/)"
   },
   {
     "CommandName": "Videos",
-    "CommandData": "They are great to watch but are usually out of date QUICK.... [Best to read the DOC'S](https://www.home-assistant.io/docs/)"
+    "CommandData": "They are great to watch but are usually out of date QUICK.... [Best to read the DOCS](https://www.home-assistant.io/docs/)"
   },
   {
     "CommandName": "hassbian_suites",
-    "CommandData": "Hassbian suites are easy installable scripts custom made for Hassbian.\nHave a look at all the available suites for Hassbian in the repo <https://github.com/home-assistant/hassbian-scripts> or run `hassbian-config show`"
+    "CommandData": "Hassbian suites are easy installable scripts custom made for Hassbian.\nHave a look at all the [available suites for Hassbian](https://github.com/home-assistant/hassbian-scripts) or run `hassbian-config show`"
   },
   {
     "CommandName": "group",
-    "CommandData": "Groups allow the user to combine multiple entities into one. See <https://home-assistant.io/components/group/> for information."
+    "CommandData": "[Groups](https://home-assistant.io/components/group/) allow the user to combine multiple entities into one."
   },
   {
     "CommandName": "hassio-version",
-    "CommandData": "The latest version information for various Hass.io components can be found here: <https://s3.amazonaws.com/hassio-version/stable.json>"
+    "CommandData": "The [latest version information](https://s3.amazonaws.com/hassio-version/stable.json) for various Hass.io components."
   },
   {
     "CommandName": "dale3h",
-    "CommandData": "AKA Dale Higgs, the guru and codesmith ninja (aka Jinja Ninja) who cures most of our hair-pulling: <https://github.com/dale3h/homeassistant-config>\n\nIf you have received any significant help on the Home Assistant Discord server, it is likely due to Dale's expertise and general good-natured spirit."
+    "CommandData": "AKA [Dale Higgs](https://github.com/dale3h/homeassistant-config), the guru and codesmith ninja (aka Jinja Ninja) who cures most of our hair-pulling\n\nIf you have received any significant help on the Home Assistant Discord server, it is likely due to Dale's expertise and general good-natured spirit."
   },
   {
     "CommandName": "philhawthorne",
-    "CommandData": "Phil Hawthorne's Github can be found at https://github.com/philhawthorne and you can find Phil's wonderful Home Automation site at https://philhawthorne.com/homeautomation/"
+    "CommandData": "[Phil Hawthorne's Github](https://github.com/philhawthorne)and Phil's wonderful [Home Automation site](https://philhawthorne.com/homeautomation/)"
   },
   {
     "CommandName": "hassbot",
@@ -421,7 +421,7 @@
   },
   {
     "CommandName": "troubleshooting",
-    "CommandData": "If you're having problems with your updates to your configuration, check the troubleshooting steps in <https://home-assistant.io/docs/configuration/troubleshooting/>"
+    "CommandData": "If you're having problems with your updates to your configuration, check the [troubleshooting steps](https://home-assistant.io/docs/configuration/troubleshooting/)"
   },
   {
     "CommandName": "hassctl",
@@ -441,7 +441,7 @@
   },
   {
     "CommandName": "awesome",
-    "CommandData": "Awesome Home Assistant - A curated list of amazingly awesome Home Assistant resources. <https://www.awesome-ha.com/>"
+    "CommandData": "[Awesome Home Assistant](https://www.awesome-ha.com/) - A curated list of amazingly awesome Home Assistant resources."
   },
   {
     "CommandName": "atom",
@@ -449,7 +449,7 @@
   },
   {
     "CommandName": "git",
-    "CommandData": "Here are some useful commands to push your repo to GitHub once you have the `git` part all set up: <https://github.com/CCOSTAN/Home-AssistantConfig/blob/master/shell_scripts/gitupdate.sh>"
+    "CommandData": "Here are some [useful commands](https://github.com/CCOSTAN/Home-AssistantConfig/blob/master/shell_scripts/gitupdate.sh) to push your repo to GitHub once you have the `git` part all set up"
   },
   {
     "CommandName": "device_class",
@@ -457,11 +457,11 @@
   },
   {
     "CommandName": "secrets",
-    "CommandData": "Rather than putting sensitive information (passwords, locations, etc) into your configuration, you can store them in secrets to make sharing easier. See <https://home-assistant.io/docs/configuration/secrets/> for more."
+    "CommandData": "Rather than putting sensitive information (passwords, locations, etc) into your configuration, you can store them in [secrets](https://home-assistant.io/docs/configuration/secrets/) to make sharing easier."
   },
   {
     "CommandName": "linux",
-    "CommandData": "To learn about the basics of Linux check out this guide <https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics>"
+    "CommandData": "To learn about the basics of Linux check out [this guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics)"
   },
   {
     "CommandName": "rule5",
@@ -469,7 +469,7 @@
   },
   {
     "CommandName": "ccostan",
-    "CommandData": "Be sure to visit me at <https://github.com/CCOSTAN/Home-AssistantConfig#logo> and visit my website at <https://vcloudinfo.com/>."
+    "CommandData": "Be sure to visit me at [my github](https://github.com/CCOSTAN/Home-AssistantConfig#logo) and visit [my website](https://vcloudinfo.com/)"
   },
   {
     "CommandName": "sharethelove",
@@ -477,19 +477,19 @@
   },
   {
     "CommandName": "vasiley_fishtank",
-    "CommandData": "Have a Poke around the tank https://github.com/Vasiley/Home-Assistant_FishTank"
+    "CommandData": "Have a Poke around [the tank](https://github.com/Vasiley/Home-Assistant_FishTank)"
   },
   {
     "CommandName": "arsaboo",
-    "CommandData": "For best of the best home automations, visit my repo at <https://github.com/arsaboo/homeassistant-config>"
+    "CommandData": "For best of the best home automations, visit [my repo](https://github.com/arsaboo/homeassistant-config)"
   },
   {
     "CommandName": "which",
-    "CommandData": "There's no right way of installing Home Assistant - each approach has advantages and disadvantages. If you're after the appliance like experience use Hass.io, if you know (or want to know) linux, use Hassbian. Beyond that, have a look at the long list of official options at <https://home-assistant.io/docs/installation/>. See Tinkerer's take at <https://blog.ceard.tech/2017/11/which-home-assistant-install-is-right.html>."
+    "CommandData": "There's no right way of installing Home Assistant - each approach has advantages and disadvantages. If you're after the appliance like experience use Hass.io, if you know (or want to know) linux, use Hassbian. Beyond that, have a look at the long [list of official options](https://home-assistant.io/docs/installation/). See [Tinkerer's take here](https://blog.ceard.tech/2017/11/which-home-assistant-install-is-right.html)"
   },
   {
     "CommandName": "forum",
-    "CommandData": "You can find the community forum at <https://community.home-assistant.io/>"
+    "CommandData": "You can find the [community forum here](https://community.home-assistant.io/)"
   },
   {
     "CommandName": "thoughts",
@@ -497,7 +497,7 @@
   },
   {
     "CommandName": "json",
-    "CommandData": "You can check validity of JSON at <http://www.jsonlint.com> or parse JSON here <https://jqplay.org/>"
+    "CommandData": "Use these tools to [check validity of JSON](http://www.jsonlint.com) or [parse JSON](https://jqplay.org/)"
   },
   {
     "CommandName": "rules",
@@ -505,23 +505,23 @@
   },
   {
     "CommandName": "dshokouhi",
-    "CommandData": "Take a Peak at https://github.com/dshokouhi/Home-AssistantConfig and see if it helps"
+    "CommandData": "Take a Peak at [my github](https://github.com/dshokouhi/Home-AssistantConfig) and see if it helps"
   },
   {
     "CommandName": "nocolaz",
-    "CommandData": "My Git Hub Repo  https://github.com/klaasnicolaas/Smarthome-homeassistant-config"
+    "CommandData": "My [Github Repo](https://github.com/klaasnicolaas/Smarthome-homeassistant-config)"
   },
   {
     "CommandName": "vasiley",
-    "CommandData": "Have a Walk Around https://github.com/Vasiley"
+    "CommandData": "Have a [Walk Around](https://github.com/Vasiley)"
   },
   {
     "CommandName": "backup",
-    "CommandData": "Be sure to regularly, automatically, back up your Home Assistant install. There are various critical files and configuration options (like the Z-Wave network key), plus all your time. Hass.io has snapshots, and for unix type installs see <https://blog.ceard.tech/2017/10/backing-up-home-assistant.html>.  Oh, and most important of all **test your ability to restore regularly**."
+    "CommandData": "Be sure to regularly, automatically, back up your Home Assistant install. There are various critical files and configuration options (like the Z-Wave network key), plus all your time. Hass.io has snapshots, and for unix type installs see [this page](https://blog.ceard.tech/2017/10/backing-up-home-assistant.html).  Oh, and most important of all **test your ability to restore regularly**."
   },
   {
     "CommandName": "flowolf",
-    "CommandData": "Have a look at flowolf's config at <https://github.com/flowolf/homeassistant-config>"
+    "CommandData": "Have a look at [flowolf's config](https://github.com/flowolf/homeassistant-config)"
   },
   {
     "CommandName": "fruitsalad",
@@ -529,7 +529,7 @@
   },
   {
     "CommandName": "nicolaz",
-    "CommandData": "My Git Hub Repo  https://github.com/klaasnicolaas/Smarthome-homeassistant-config"
+    "CommandData": "My [Github Repo](https://github.com/klaasnicolaas/Smarthome-homeassistant-config)"
   },
   {
     "CommandName": "32bit",
@@ -537,23 +537,23 @@
   },
   {
     "CommandName": "sinker1345",
-    "CommandData": "Have a peek at my git maybe it can help https://github.com/sinker1345/Home-Assistant-Configuration"
+    "CommandData": "Have a peek at [my github](https://github.com/sinker1345/Home-Assistant-Configuration) maybe it can help"
   },
   {
     "CommandName": "jinja",
-    "CommandData": "Jinja Template Designer Documentation: <http://jinja.pocoo.org/docs/dev/templates/>\nFor more examples and samples, visit <https://github.com/skalavala/smarthome/tree/master/jinja_helpers#jinja-code-for-ninjas>"
+    "CommandData": "[Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)\nFor more examples and samples, visit see [this page](https://github.com/skalavala/smarthome/tree/master/jinja_helpers#jinja-code-for-ninjas)"
   },
   {
     "CommandName": "repos",
-    "CommandData": "You can find a number of people's GitHub repositories at <https://github.com/topics/home-assistant-config> - these are their working configurations, not simply documentation examples"
+    "CommandData": "You can find a number of people's [GitHub repositories here](https://github.com/topics/home-assistant-config) - these are their working configurations, not simply documentation examples"
   },
   {
     "CommandName": "skalavala",
-    "CommandData": "You can find skalavala's github repo at https://www.github.com/skalavala and his blog at <https://www.awesome-automations.com/blog/>"
+    "CommandData": "Skalavala's [github repo](https://www.github.com/skalavala) and [his blog](https://www.awesome-automations.com/blog/)"
   },
   {
     "CommandName": "condition",
-    "CommandData": "Conditions can be used within a script or automation to prevent further execution. See <https://home-assistant.io/docs/scripts/conditions/> for details."
+    "CommandData": "[Conditions](https://home-assistant.io/docs/scripts/conditions/) can be used within a script or automation to prevent further execution."
   },
   {
     "CommandName": "rule6",
@@ -569,7 +569,7 @@
   },
   {
     "CommandName": "edit",
-    "CommandData": "Instead of sending the message again, please edit the original message. For more information on how to edit messages in Discord, please visit: <https://support.discordapp.com/hc/en-us/articles/207618817-How-do-I-edit-my-messages->"
+    "CommandData": "Instead of sending the message again, please [edit the original message](https://support.discordapp.com/hc/en-us/articles/207618817-How-do-I-edit-my-messages-)"
   },
   {
     "CommandName": "packages",
@@ -577,19 +577,19 @@
   },
   {
     "CommandName": "yaml",
-    "CommandData": "YAML is the mark up language used by Home Assistant. Consistent indenting (two spaces per level) is key - read more at <https://home-assistant.io/docs/configuration/yaml/>"
+    "CommandData": "[YAML](https://home-assistant.io/docs/configuration/yaml/) is the mark up language used by Home Assistant. Consistent indenting (two spaces per level) is key"
   },
   {
     "CommandName": "lovelace_glance",
-    "CommandData": "Glance cards are very compact, see <https://www.home-assistant.io/lovelace/glance/>"
+    "CommandData": "[Glance cards](https://www.home-assistant.io/lovelace/glance/) are very compact"
   },
   {
     "CommandName": "monster-card",
-    "CommandData": "Monster card is a magical type of card. Because it's dynamic if you're smart about it, you can have one card that adapts and that you don't need to touch when adding new entities & sensors to your setup. Supports both inclusion and exclusion filters with wildcard for `entity_id`: <https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card>"
+    "CommandData": "[Monster card](https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card) is a magical type of card. Because it's dynamic if you're smart about it, you can have one card that adapts and that you don't need to touch when adding new entities & sensors to your setup. Supports both inclusion and exclusion filters with wildcard for `entity_id`"
   },
   {
     "CommandName": "tinkerer",
-    "CommandData": "You can find his GitHub at <https://github.com/DubhAd/Home-AssistantConfig/> and his blog at <https://ceard.tech/>"
+    "CommandData": "[His GitHub](https://github.com/DubhAd/Home-AssistantConfig/) and [his blog](https://ceard.tech/)"
   },
   {
     "CommandName": "template",
@@ -601,7 +601,7 @@
   },
   {
     "CommandName": "ll",
-    "CommandData": "Lovelace is the new experimental UI for Home-Assistant, to get started have a look at the documentation <https://www.home-assistant.io/lovelace>\nIf you have any questions or issues with it, head over to <#460846676358332417>"
+    "CommandData": "[Lovelace](https://www.home-assistant.io/lovelace) is the new experimental UI for Home-Assistant\nIf you have any questions or issues with it, head over to <#460846676358332417>"
   },
   {
     "CommandName": "ask",
@@ -609,7 +609,7 @@
   },
   {
     "CommandName": "question",
-    "CommandData": "**Before You Ask**\nHow To Ask Questions The Smart Way: <http://www.catb.org/esr/faqs/smart-questions.html>\n\nBefore asking a technical question in our channels, please do the following:\n\n1. Try to find an answer by searching the archives of the forum: <https://community.home-assistant.io/>\n2. Try to find an answer by searching the Web: <https://www.google.com/>\n3. Try to find an answer by reading the manual: <https://www.home-assistant.io/docs/>\n4. Try to find an answer by reading a FAQ: <https://www.home-assistant.io/faq/>\n5. Try to find an answer by inspection or experimentation.\n6. Try to find an answer by asking a skilled friend.\n7. If you're a programmer, try to find an answer by reading the source code: <https://github.com/home-assistant/home-assistant>\n\nWhen you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers."
+    "CommandData": "**Before You Ask**\n[How To Ask Questions The Smart Way](<http://www.catb.org/esr/faqs/smart-questions.html)\n\nBefore asking a technical question in our channels, please do the following:\n\n1. Try to find an answer by searching the [archives of the forum](https://community.home-assistant.io/)\n2. Try to find an answer by searching [the Web](https://www.google.com/)\n3. Try to find an answer by reading [the manual](https://www.home-assistant.io/docs/)\n4. Try to find an answer by reading [the FAQ](https://www.home-assistant.io/faq/)\n5. Try to find an answer by inspection or experimentation.\n6. Try to find an answer by asking a skilled friend.\n7. If you're a programmer, try to find an answer by reading [the source code](https://github.com/home-assistant/home-assistant)\n\nWhen you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers."
   },
   {
     "CommandName": "images",
@@ -617,15 +617,15 @@
   },
   {
     "CommandName": "tracker-owntracks",
-    "CommandData": "Remove all reference to the `owntracks` device tracker and set up the integration as explained in <https://www.home-assistant.io/components/owntracks/>"
+    "CommandData": "Remove all reference to the `owntracks` device tracker and [set up the integration](https://www.home-assistant.io/components/owntracks/)"
   },
   {
     "CommandName": "issues",
-    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\nCheck <https://github.com/home-assistant/home-assistant/issues> for the backend, <https://github.com/home-assistant/home-assistant-polymer/issues> for the UI, and <https://github.com/home-assistant/home-assistant.github.io/issues> for the documentation."
+    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\nCheck [issues for the backend](https://github.com/home-assistant/home-assistant/issues), [issues for the UI](https://github.com/home-assistant/home-assistant-polymer/issues), and [issues for the documentation](https://github.com/home-assistant/home-assistant.github.io/issues)."
   },
   {
     "CommandName": "llat",
-    "CommandData": "The LLAT, or Long Lived Access Token can be found in your user profile (see <https://www.home-assistant.io/docs/authentication/#your-account-profile>). For examples of using it for the API see the API docs at <https://developers.home-assistant.io/docs/en/external_api_rest.html>"
+    "CommandData": "The LLAT, or [Long Lived Access Token](https://www.home-assistant.io/docs/authentication/#your-account-profile) can be found in your user profile. For examples of using it for the API see the [API docs](https://developers.home-assistant.io/docs/en/external_api_rest.html)"
   },
   {
     "CommandName": "vef",
@@ -637,23 +637,23 @@
   },
   {
     "CommandName": "list",
-    "CommandData": "Want to see the full list of commands for the bot? Try \n```\ncurl -sSL https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json | jq .[].CommandName --raw-output | grep rule\n```\nOr the raw data at <https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json>"
+    "CommandData": "Want to see the full list of commands for the bot? Try \n```\ncurl -sSL https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json | jq .[].CommandName --raw-output | grep rule\n```\nOr [the raw data](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json)"
   },
   {
     "CommandName": "custom-cards",
-    "CommandData": "Head over to <https://github.com/custom-cards> to see a selection of community made custom_cards for Home Assistant?"
+    "CommandData": "Head over to [the custom cards github](https://github.com/custom-cards) to see a selection of community made custom_cards for Home Assistant?"
   },
   {
     "CommandName": "cards",
-    "CommandData": "Head over to <https://sharethelove.io/custom-resources/cards> to see a selection of community made custom cards for Home Assistant?"
+    "CommandData": "Head over to [this page](https://sharethelove.io/custom-resources/cards) to see a selection of community made custom cards for Home Assistant?"
   },
   {
     "CommandName": "websocket",
-    "CommandData": "Add [**this contribution**](https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket) for the current best method of connecting Home Assistant and Node-Red"
+    "CommandData": "Add [this contribution](https://flows.nodered.org/node/node-red-contrib-home-assistant-websocket) for the current best method of connecting Home Assistant and Node-Red"
   },
   {
     "CommandName": "lovelace-plugins",
-    "CommandData": "Follow [**this guide**](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins) to add your first custom plugin to your lovelace configuration"
+    "CommandData": "Follow [this guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins) to add your first custom plugin to your lovelace configuration"
   },
   {
     "CommandName": "404",
