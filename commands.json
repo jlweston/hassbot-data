@@ -1,7 +1,7 @@
 [
   {
     "CommandName": "help",
-    "CommandData": "For help with Hassbot, please visit <https://github.com/skalavala/HassBot#home-assistant-discord-bot>\nFor a cheatsheet of commands have a look here <https://github.com/skalavala/HassBot/blob/master/skalavala_hassbot-commands.pdf>"
+    "CommandData": "[Click here](https://github.com/skalavala/HassBot#home-assistant-discord-bot) for help with Hassbot, or use the [command cheatsheet](https://github.com/skalavala/HassBot/blob/master/skalavala_hassbot-commands.pdf)"
   },
   {
     "CommandName": "share",
@@ -9,7 +9,7 @@
   },
   {
     "CommandName": "z-wave",
-    "CommandData": "Z-Wave is a low power, low bandwidth, protocol for home automation devices - mostly sensors, switches, and light controls. For details on how to use it in Home Assistant, and the limitations of the Z-Wave mesh network, see <https://home-assistant.io/docs/z-wave/>"
+    "CommandData": "Z-Wave is a low power, low bandwidth, protocol for home automation devices - mostly sensors, switches, and light controls. [Click here](https://home-assistant.io/docs/z-wave/) for details on how to use it in Home Assistant, and the limitations of the Z-Wave mesh network."
   },
   {
     "CommandName": "hassbian_logs",
@@ -17,7 +17,7 @@
   },
   {
     "CommandName": "xy",
-    "CommandData": "The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.\nThe problem occurs when people get stuck on what they believe is the solution and are unable to step back and explain the issue in full.\n<https://en.wikipedia.org/wiki/XY_problem>"
+    "CommandData": "[The XY problem](https://en.wikipedia.org/wiki/XY_problem) is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.\nThe problem occurs when people get stuck on what they believe is the solution and are unable to step back and explain the issue in full."
   },
   {
     "CommandName": "aiohttp",
@@ -49,7 +49,7 @@
   },
   {
     "CommandName": "mosquitto",
-    "CommandData": "If you want to test out your MQTT install from your pi, first install the client (<https://mosquitto.org/2013/01/mosquitto-debian-repository/>) and then use the following command to subscribe to all topics on your server:\n```shell\n$ mosquitto_sub -h IP_ADDRESS -u 'pi' -P 'raspberry' -t '#' -v\n```"
+    "CommandData": "If you want to test out your MQTT install from your pi, first install [the client](https://mosquitto.org/2013/01/mosquitto-debian-repository/) and then use the following command to subscribe to all topics on your server:\n```shell\n$ mosquitto_sub -h IP_ADDRESS -u 'pi' -P 'raspberry' -t '#' -v\n```"
   },
   {
     "CommandName": "custom-ui",
@@ -73,7 +73,7 @@
   },
   {
     "CommandName": "config",
-    "CommandData": "Enable the \"Configuration\" section of the UI by adding `config:` to your configuration.yaml file, docs: <https://home-assistant.io/components/config/>"
+    "CommandData": "Enable the \"Configuration\" section of the UI by adding `config:` to your configuration.yaml file, visit [the docs page](https://home-assistant.io/components/config/) for more info."
   },
   {
     "CommandName": "interference",
@@ -85,19 +85,19 @@
   },
   {
     "CommandName": "hadashboard",
-    "CommandData": "HADashboard is a dashboard for Home Assistant that is intended to be wall mounted, and is optimized for distance viewing: <http://appdaemon.readthedocs.io/en/latest/DASHBOARD_INSTALL.html>"
+    "CommandData": "[HADashboard](http://appdaemon.readthedocs.io/en/latest/DASHBOARD_INSTALL.html) is a dashboard for Home Assistant that is intended to be wall mounted, and is optimized for distance viewing."
   },
   {
     "CommandName": "hassbian_upgrade",
-    "CommandData": "This is how you upgrade hassbian: <https://home-assistant.io/docs/installation/hassbian/upgrading/>"
+    "CommandData": "[This guide](https://home-assistant.io/docs/installation/hassbian/upgrading/) explains how you upgrade hassbian."
   },
   {
     "CommandName": "notify",
-    "CommandData": "Have a look at the notify configuration options. Here are the docs: <https://home-assistant.io/components/notify/>"
+    "CommandData": "Have a look at the [notify configuration options](https://home-assistant.io/components/notify/)"
   },
   {
     "CommandName": "homebridge_link",
-    "CommandData": "Homebridge is a great way to bring Apple Homekit into the fold for HomeAssistant. Here is a great description on how to make Homebridge dependant on Home Assistant so it auto starts up second. <https://github.com/CCOSTAN/Home-AssistantConfig/issues/114#issuecomment-291079172>"
+    "CommandData": "Homebridge is a great way to bring Apple Homekit into the fold for HomeAssistant. [Here is a great description](https://github.com/CCOSTAN/Home-AssistantConfig/issues/114#issuecomment-291079172) on how to make Homebridge dependant on Home Assistant so it auto starts up second."
   },
   {
     "CommandName": "entity_count",
@@ -105,11 +105,11 @@
   },
   {
     "CommandName": "customizer",
-    "CommandData": "Companion component for Home Assistant CustomUI: <https://github.com/andrey-git/home-assistant-customizer/>"
+    "CommandData": "[Companion component](https://github.com/andrey-git/home-assistant-customizer/) for Home Assistant CustomUI."
   },
   {
     "CommandName": "rkaramandi",
-    "CommandData": "Visit Rohan Karamandi's Github at https://github.com/rkaramandi and follow his Home Automation blog at http://www.karamandi.com/"
+    "CommandData": "Visit Rohan [Karamandi's Github](https://github.com/rkaramandi) and follow his [Home Automation blog](http://www.karamandi.com/)"
   },
   {
     "CommandName": "iamtpage_repo",
@@ -137,7 +137,7 @@
   },
   {
     "CommandName": "jinja2",
-    "CommandData": "Jinja Template Designer Documentation: <http://jinja.pocoo.org/docs/dev/templates/>"
+    "CommandData": "[Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)"
   },
   {
     "CommandName": "aiohttp_bug",
@@ -157,7 +157,7 @@
   },
   {
     "CommandName": "markdown",
-    "CommandData": "Discord Markdown Text 101: <https://support.discordapp.com/hc/en-us/articles/210298617>"
+    "CommandData": "[Discord Markdown Text 101](https://support.discordapp.com/hc/en-us/articles/210298617)"
   },
   {
     "CommandName": "keygen",
@@ -165,11 +165,11 @@
   },
   {
     "CommandName": "mihalski",
-    "CommandData": "It's not that bad Dude.  Things will get better.  Everything is a work in progress so just keep a chin up and watch this: \nhttp://www.nbc.com/saturday-night-live/video/weekend-update-olya-povlatsky-on-the-russian-economy/2855730?snl=1"
+    "CommandData": "It's not that bad Dude.  Things will get better.  Everything is a work in progress so just keep a chin up and [watch this](http://www.nbc.com/saturday-night-live/video/weekend-update-olya-povlatsky-on-the-russian-economy/2855730?snl=1)"
   },
   {
     "CommandName": "maxr1998",
-    "CommandData": "Developer of a native Home Assistant client for Android:\nhttps://github.com/Maxr1998/home-assistant-Android"
+    "CommandData": "Developer of a native Home Assistant [client for Android](https://github.com/Maxr1998/home-assistant-Android)"
   },
   {
     "CommandName": "androidclient",
@@ -177,7 +177,7 @@
   },
   {
     "CommandName": "android",
-    "CommandData": "Unoffical Home Assistant client for Android:\nhttps://github.com/Maxr1998/home-assistant-Android"
+    "CommandData": "Unoffical Home Assistant [client for Android](https://github.com/Maxr1998/home-assistant-Android)"
   },
   {
     "CommandName": "espeasy",
@@ -185,7 +185,7 @@
   },
   {
     "CommandName": "cribbs",
-    "CommandData": "​​Brian Cribbs' configuration repo <https://github.com/cribbstechnologies/ha_config>\n\nAlso, check out his automation blog <http://www.cribbstechnologies.com/index.php/home-automation/>"
+    "CommandData": "​​Brian Cribbs' [configuration repo](https://github.com/cribbstechnologies/ha_config)\nAlso, check out his [automation blog](http://www.cribbstechnologies.com/index.php/home-automation/)"
   },
   {
     "CommandName": "collse",
@@ -193,19 +193,19 @@
   },
   {
     "CommandName": "rrubin0",
-    "CommandData": "rrubin0's Home Assistant Configs. Be sure to follow my repo, if you like anything here! <https://github.com/rrubin0/hassio-config>"
+    "CommandData": "rrubin0's [Home Assistant Configs](https://github.com/rrubin0/hassio-config). Be sure to follow my repo, if you like anything here!"
   },
   {
     "CommandName": "pow377",
-    "CommandData": "For random toot on Github: <https://github.com/Pow377>"
+    "CommandData": "For random toot on [Github](https://github.com/Pow377)"
   },
   {
     "CommandName": "sixreeves",
-    "CommandData": "Check out @sixreeves repo at <https://github.com/sixreeves/Home-AssistantConfig>"
+    "CommandData": "Check out @sixreeves [github repo](https://github.com/sixreeves/Home-AssistantConfig)"
   },
   {
     "CommandName": "rsnapshot",
-    "CommandData": "rsnapshot makes it easy to make periodic snapshots of local machines, and remote machines over ssh - see <http://rsnapshot.org/>"
+    "CommandData": "[rsnapshot](http://rsnapshot.org/) makes it easy to make periodic snapshots of local machines, and remote machines over ssh."
   },
   {
     "CommandName": "moose517",
@@ -213,7 +213,7 @@
   },
   {
     "CommandName": "haaska",
-    "CommandData": "Use <https://github.com/auchter/haaska> to communicate with your Alexa."
+    "CommandData": "Use [Haaska](https://github.com/auchter/haaska) to communicate with your Alexa."
   },
   {
     "CommandName": "ssh_tunnel",
@@ -221,19 +221,19 @@
   },
   {
     "CommandName": "components",
-    "CommandData": "For a complete list of available components, please visit: <https://home-assistant.io/components/>"
+    "CommandData": "The [complete list](https://home-assistant.io/components/) of available components"
   },
   {
     "CommandName": "hassbian-config",
-    "CommandData": "`hassbian-config` Is a  package handler for the Hassbian scripts, you can use if you are running the Hassbian image. Check out <https://github.com/home-assistant/hassbian-scripts/blob/master/docs/hassbian_config.md> for instructions on how to use it."
+    "CommandData": "`hassbian-config` Is a  package handler for the Hassbian scripts, you can use if you are running the Hassbian image. Check out [this page](https://github.com/home-assistant/hassbian-scripts/blob/master/docs/hassbian_config.md) for instructions on how to use it."
   },
   {
     "CommandName": "hassbian",
-    "CommandData": "Hassbian: a custom image based on the Raspberry Lite image with Home Assistant built-in.\nIt also comes with `hassbian-config` to simplify additional installations.\n<https://home-assistant.io/docs/hassbian/installation/>"
+    "CommandData": "[Hassbian:](https://home-assistant.io/docs/hassbian/installation/) a custom image based on the Raspberry Lite image with Home Assistant built-in.\nIt also comes with `hassbian-config` to simplify additional installations."
   },
   {
     "CommandName": "ben",
-    "CommandData": "BRUH Automation: <https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w>"
+    "CommandData": "[BRUH Automation](https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w)"
   },
   {
     "CommandName": "links",
@@ -249,7 +249,7 @@
   },
   {
     "CommandName": "sftp",
-    "CommandData": "Visit <http://willheid.com/2017/06/21/sftp-user-for-ha-editing> for a guide."
+    "CommandData": "Visit [this page](http://willheid.com/2017/06/21/sftp-user-for-ha-editing) for a guide."
   },
   {
     "CommandName": "pola",
@@ -257,19 +257,19 @@
   },
   {
     "CommandName": "floorplan",
-    "CommandData": "Floorplan allows you to extend the user interface by adding your own visuals.\n\nFor more information, please visit the Floorplan project page: <https://github.com/pkozul/ha-floorplan>"
+    "CommandData": "[Floorplan](https://github.com/pkozul/ha-floorplan) allows you to extend the user interface by adding your own visuals."
   },
   {
     "CommandName": "moose",
-    "CommandData": "Take A Look At Moose's Config https://github.com/ChristopherLMiller/home-assistant-config"
+    "CommandData": "Take A Look At [Moose's Config](https://github.com/ChristopherLMiller/home-assistant-config)"
   },
   {
     "CommandName": "Vasiley_Wiki",
-    "CommandData": "A wiki to explain my config https://github.com/Vasiley/Home-Assistant-Main/wiki"
+    "CommandData": "[A wiki](https://github.com/Vasiley/Home-Assistant-Main/wiki) to explain my config"
   },
   {
     "CommandName": "quotes",
-    "CommandData": "check out the best practices around using quotes in templates. <https://www.home-assistant.io/developers/documentation/standards/#single-vs-double-quotation-marks>"
+    "CommandData": "check out the [best practices](https://www.home-assistant.io/developers/documentation/standards/#single-vs-double-quotation-marks) around using quotes in templates."
   },
   {
     "CommandName": "vampire",
@@ -281,7 +281,7 @@
   },
   {
     "CommandName": "input_number",
-    "CommandData": "The `input_number` component allows the user to define values that can be controlled via the frontend and can be used within conditions of automation. The frontend can display a slider, or a numeric input box. Changes to the slider or numeric input box generate state events. These state events can be utilized as `automation` triggers as well.\n```yaml\n# Example configuration.yaml entry\ninput_number:\n  slider1:\n    name: Slider\n    initial: 30\n    min: -20\n    max: 35\n    step: 1```\nMore information: <https://home-assistant.io/components/input_number/>"
+    "CommandData": "The **[input_number](https://home-assistant.io/components/input_number/)** component allows the user to define values that can be controlled via the frontend and can be used within conditions of automation. The frontend can display a slider, or a numeric input box. Changes to the slider or numeric input box generate state events. These state events can be utilized as `automation` triggers as well.\n```yaml\n# Example configuration.yaml entry\ninput_number:\n  slider1:\n    name: Slider\n    initial: 30\n    min: -20\n    max: 35\n    step: 1```"
   },
   {
     "CommandName": "tasmota",
@@ -297,7 +297,7 @@
   },
   {
     "CommandName": "norien",
-    "CommandData": "Check out my repo and take a peak https://github.com/Norien/Home-Assistant-Config"
+    "CommandData": "[Check out my repo](https://github.com/Norien/Home-Assistant-Config) and take a peak"
   },
   {
     "CommandName": "duckdns_cert",
@@ -305,7 +305,7 @@
   },
   {
     "CommandName": "jackjohnsonuk",
-    "CommandData": "Please visit my Github repository at https://github.com/jackjohnsonuk/homeassistant-config"
+    "CommandData": "Please visit my [Github repository](https://github.com/jackjohnsonuk/homeassistant-config)"
   },
   {
     "CommandName": "getting_started",
