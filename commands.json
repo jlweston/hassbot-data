@@ -666,5 +666,9 @@
   {
     "CommandName": "villhellm",
     "CommandData": "[Link to Villhellm's github page](https://github.com/Villhellm)"
+  },
+  {
+    "CommandName": "monitor",
+    "CommandData": "As an alternative to HA built-in bluetooth tracking, [the monitor script](https://github.com/andrewjfreyer/monitor) uses separate devices, usually [Pi Zeroes](https://www.raspberrypi.org/products/raspberry-pi-zero/), to track bluetooth devices.\nIt uses MQTT topics to relay device status messages to HA."
   }
 ]
