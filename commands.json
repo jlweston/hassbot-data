@@ -613,7 +613,7 @@
   },
   {
     "CommandName": "images",
-    "CommandData": "Please use imgur or other image sharing web sites, and share the link here."
+    "CommandData": "Please use [imgur](https://imgur.com/) or other image sharing web sites, and share the link here."
   },
   {
     "CommandName": "tracker-owntracks",
