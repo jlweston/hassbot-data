@@ -257,7 +257,7 @@
   },
   {
     "CommandName": "floorplan",
-    "CommandData": "[Floorplan](https://github.com/pkozul/ha-floorplan) allows you to extend the user interface by adding your own visuals."
+    "CommandData": "[Floorplan](https://github.com/pkozul/ha-floorplan) allows you to extend the user interface by adding your own visuals. It also exists [in a Lovelace version](https://github.com/pkozul/lovelace-floorplan/)."
   },
   {
     "CommandName": "moose",
@@ -293,7 +293,7 @@
   },
   {
     "CommandName": "python",
-    "CommandData": "Python 3.5.3 is the minimum version of Python supported by Home Assistant, with 3.6 being recommended. If you're using a Python virtual environment install you can install an updated version of Python, then manually upgrade your venv as described in <https://blog.ceard.tech/2017/12/upgrading-python-virtual-environment.html>"
+    "CommandData": "Python 3.6 will soon be the minimum version of Python supported by Home Assistant, with 3.7 being recommended. If you're using a Python virtual environment install you can install an updated version of Python, then manually upgrade your venv as described in <https://blog.ceard.tech/2017/12/upgrading-python-virtual-environment.html>"
   },
   {
     "CommandName": "norien",
