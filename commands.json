@@ -674,5 +674,9 @@
   {
     "CommandName": "explain",
     "CommandData": "[This forum post](https://community.home-assistant.io/t/how-to-help-us-help-you-or-how-to-ask-a-good-question/114371) covers the things we need to know to help you. Key things are the version of _Home Assistant_ you're running, how you installed it (Hassbian, Hass.io, etc), the exact component you're having problems with (eg _Nest climate_ rather than _climate_), and details of the problem (ideally with any error message in full)."
+  },
+  {
+    "CommandName": "ludeeus",
+    "CommandData": "There esists a repo where his configuration used to be in, now it's just [a whole lot of nothing](https://github.com/ludeeus/Home-Assistant-Config), not evern woth clicking the link :dancer:"
   }
 ]
