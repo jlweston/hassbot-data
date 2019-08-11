@@ -678,5 +678,9 @@
   {
     "CommandName": "ludeeus",
     "CommandData": "[This repository exists mostly for my own amusement](https://github.com/ludeeus/Home-Assistant-Config), but it may contain some things that others might find useful. :dancer:"
+  },
+  {
+    "CommandName": "hacs",
+    "CommandData": "[Home Assistant Community Store](https://custom-components.github.io/hacs/) is the successor to the old Custom Updater, and can do so much more - you should chekc it out."
   }
 ]
