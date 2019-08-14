@@ -633,7 +633,7 @@
   },
   {
     "CommandName": "check",
-    "CommandData": "***Always*** run the configuration check *command* when you make changes (<https://www.home-assistant.io/docs/configuration/troubleshooting/#problems-with-the-configuration>). Don't trust the UI check - it misses some problems."
+    "CommandData": "***Always*** run the [configuration check *command*](<https://www.home-assistant.io/docs/configuration/troubleshooting/#problems-with-the-configuration>) when you make changes. Don't trust the UI check - it misses some problems."
   },
   {
     "CommandName": "list",
