@@ -682,5 +682,9 @@
   {
     "CommandName": "hacs",
     "CommandData": "[Home Assistant Community Store](https://custom-components.github.io/hacs/) is the successor to the old Custom Updater, and can do so much more - you should check it out."
+  },
+  {
+    "CommandName": "irc",
+    "CommandData": "Discord isn't like IRC, you don't have to tag people on every response. Keep in mind that every time you tag somebody, they get a notification ping. That can very quickly become annoying and people may block you."
   }
 ]
