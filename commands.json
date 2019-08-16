@@ -686,5 +686,9 @@
   {
     "CommandName": "irc",
     "CommandData": "Discord isn't like IRC, you don't have to tag people on every response. Keep in mind that every time you tag somebody, they get a notification ping. That can very quickly become annoying and people may block you."
+  },
+  {
+    "CommandName": "moved",
+    "CommandData": "In 0.97 and beyond some menu options have moved. If you can't find an option you used to have try enabling 'Advanced Mode' (go to your HA user profile to find this option), and then go to Configuration > Server Control"
   }
 ]
