@@ -690,5 +690,9 @@
   {
     "CommandName": "moved",
     "CommandData": "In 0.97 and beyond some menu options have moved. If you can't find an option you used to have try enabling 'Advanced Mode' (go to your HA user profile to find this option), and then go to Configuration > Server Control"
+  },
+  {
+    "CommandName": "hassio",
+    "CommandData": "[Home Assistant](https://www.home-assistant.io) is the software we all run. [Hass.io](https://www.home-assistant.io/hassio/ is _one of_ the ways you can [install](https://www.home-assistant.io/docs/installation/) **Home Assistant**. You're still running Home Assistant."
   }
 ]
