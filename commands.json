@@ -681,7 +681,7 @@
   },
   {
     "CommandName": "hacs",
-    "CommandData": "[Home Assistant Community Store](https://custom-components.github.io/hacs/) is the successor to the old Custom Updater, and can do so much more - you should check it out."
+    "CommandData": "[Home Assistant Community Store](https://hacs.xyz/) is the successor to the old Custom Updater, and can do so much more - you should check it out."
   },
   {
     "CommandName": "irc",
