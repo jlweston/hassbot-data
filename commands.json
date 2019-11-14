@@ -698,5 +698,9 @@
   {
     "CommandName": "spam",
     "CommandData": "**Rule #6:** Spam will not be tolerated, including but not limited to: self-promotion, flooding, codewalls (longer than 15 lines) and unapproved bots.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
+  },
+  {
+    "CommandName": "tediore",
+    "CommandData": "It's dangerous to go alone! Check out my [GitHub](https://github.com/Tediore/My-HASS-config)."
   }
 ]
