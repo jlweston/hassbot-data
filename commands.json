@@ -389,7 +389,7 @@
   },
   {
     "CommandName": "Videos",
-    "CommandData": "They are great to watch but are usually out of date QUICK.... [Best to read the DOCS](https://www.home-assistant.io/docs/)"
+    "CommandData": "Videos are great to watch but are usually out of date QUICK.... [Best to read the DOCS](https://www.home-assistant.io/docs/)"
   },
   {
     "CommandName": "hassbian_suites",
