@@ -11,17 +11,18 @@ A few more **important things** to remember:
 
 1. A maximum of 10-15 lines of code can be posted. For code that is more than 15 lines, please use https://paste.ubuntu.com
 2. Please make sure you format the code when pasting. Use markdown language when pasting code.
+3. See #rules-and-welcome
 
 Here are a few other Discord servers you can join:
 
 //Community hassio-addons
-https://discord.gg/25ZTXDv
+https://discord.me/hassioaddons
 
 //Tasmota
-https://discord.gg/TjUGRG4
+https://discord.gg/Ks2Kzd4
 
 //ESPHome
-https://discord.gg/DdEp6Ph
+https://discord.gg/KhAMKrd
 
 //AppDaemon
 https://discord.gg/Mx5qafB
