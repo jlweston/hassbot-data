@@ -1,0 +1,27 @@
+// Any line that starts with '//' will be ignored. Feel free to add them as comments.
+These are the rules you **MUST** follow in order to get support from the members.
+
+Feel free to introduce yourself, as we are all friends here.
+Do not insult, belittle, or abuse your fellow community members. Any reports of abuse will not be taken lightly and will lead to a ban.
+Head over to #botspam channel and run the command `~help` or `.help` to get started.
+
+We hope you enjoy the company of many talented individuals here!
+
+A few more **important things** to remember:
+
+1. A maximum of 10-15 lines of code can be posted. For code that is more than 15 lines, please use https://paste.ubuntu.com
+2. Please make sure you format the code when pasting. Use markdown language when pasting code.
+
+Here are a few other Discord servers you can join:
+
+//Community hassio-addons
+https://discord.gg/25ZTXDv
+
+//Tasmota
+https://discord.gg/TjUGRG4
+
+//ESPHome
+https://discord.gg/DdEp6Ph
+
+//AppDaemon
+https://discord.gg/Mx5qafB
