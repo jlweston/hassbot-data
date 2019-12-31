@@ -8,6 +8,11 @@
 		"Url": "discord.amazingsexdating.com",
 		"Reason": "SPAM!",
 		"Ban": "True"
+	},	
+	{
+		"Url": "vcloudinfo.com",
+		"Reason": "SPAM, JUNK, ADWARE, USELESS, CLICKBAIT",
+		"Ban": "False"
 	},
 	{
 		"Url": "nakigoe.github.io",
