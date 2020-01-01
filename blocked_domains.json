@@ -15,6 +15,11 @@
 		"Ban": "False"
 	},
 	{
+		"Url": "vcloudinfo",
+		"Reason": "SPAM, JUNK, ADWARE, USELESS, CLICKBAIT",
+		"Ban": "False"
+	},
+	{
 		"Url": "nakigoe.github.io",
 		"Reason": "SPAM!",
 		"Ban": "True"
