@@ -702,5 +702,9 @@
   {
     "CommandName": "tediore",
     "CommandData": "It's dangerous to go alone! Check out my [GitHub](https://github.com/Tediore/My-HASS-config)."
+  },
+  {
+    "CommandName": "devices",
+    "CommandData": "The _Devices_ and _Entities_ views under _Configuration_ don't show every entity in your system. If you want to see everything, look under _Developer Tools_ then _States_."
   }
 ]
