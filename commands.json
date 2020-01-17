@@ -337,7 +337,7 @@
   },
   {
     "CommandName": "faq",
-    "CommandData": "[List of FAQs](https://home-assistant.io/faq/), including one explaining the difference between [Home Assistant (the software) and Hass.io (an installer)](https://www.home-assistant.io/faq/#home-assistant-vs-hassio)."
+    "CommandData": "There is a [list of FAQs](https://home-assistant.io/faq/), including one explaining the difference between [Home Assistant (the software) and Hass.io (an installer)](https://www.home-assistant.io/faq/#home-assistant-vs-hassio). There is also a [glossary](https://www.home-assistant.io/docs/glossary/) explaining many common terms."
   },
   {
     "CommandName": "persistence",
