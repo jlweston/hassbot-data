@@ -706,5 +706,9 @@
   {
     "CommandName": "devices",
     "CommandData": "The _Devices_ and _Entities_ views under _Configuration_ don't show every entity in your system. If you want to see everything, look under _Developer Tools_ then _States_."
+  },
+  {
+    "CommandName": "flippy_boi",
+    "CommandData": "https://www.home-assistant.io/integrations/input_boolean/"
   }
 ]
