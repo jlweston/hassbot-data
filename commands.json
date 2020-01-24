@@ -293,7 +293,7 @@
   },
   {
     "CommandName": "python",
-    "CommandData": "Python 3.6 will soon be the minimum version of Python supported by Home Assistant, with 3.7 being recommended. If you're using a Python virtual environment install you can install an updated version of Python, then manually upgrade your venv as described in <https://blog.ceard.tech/2017/12/upgrading-python-virtual-environment.html>"
+    "CommandData": "Python 3.7 is the minimum version of Python supported by Home Assistant, with 3.8 being recommended. If you're using a Python virtual environment install you can install an updated version of Python, then manually upgrade your venv as described in <https://blog.ceard.tech/2017/12/upgrading-python-virtual-environment.html>"
   },
   {
     "CommandName": "norien",
