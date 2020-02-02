@@ -10,23 +10,8 @@
 		"Ban": "True"
 	},	
 	{
-		"Url": "vcloudinfo.com",
-		"Reason": "SPAM, JUNK, ADWARE, USELESS, CLICKBAIT",
-		"Ban": "False"
-	},
-	{
-		"Url": "vcloudinfo",
-		"Reason": "SPAM, JUNK, ADWARE, USELESS, CLICKBAIT",
-		"Ban": "False"
-	},
-	{
 		"Url": "nakigoe.github.io",
 		"Reason": "SPAM!",
-		"Ban": "True"
-	},
-	{
-		"Url": "ccostan",
-		"Reason": "Plagiarism, self-promotion, spam",
 		"Ban": "True"
 	}
 ]
