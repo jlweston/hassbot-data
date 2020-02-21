@@ -26,3 +26,6 @@ https://discord.gg/KhAMKrd
 
 //AppDaemon
 https://discord.gg/Mx5qafB
+
+//Zigbee2MQTT
+https://discord.gg/NyseBeK
