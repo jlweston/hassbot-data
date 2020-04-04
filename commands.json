@@ -285,7 +285,7 @@
   },
   {
     "CommandName": "tasmota",
-    "CommandData": "***Ready to use custom firmware for Sonoff Devices***\n--------------------------------------------------------------------\nGithub:\n<https://github.com/arendst/Sonoff-Tasmota>\n\nWiki: \n<https://github.com/arendst/Sonoff-Tasmota/wiki>"
+    "CommandData": "***Ready to use custom firmware for Sonoff Devices***\n--------------------------------------------------------------------\nDocs: \n<https://tasmota.github.io/docs/>\n\nDiscord: \n<https://discord.gg/Ks2Kzd4>"
   },
   {
     "CommandName": "for-sale",
