@@ -617,11 +617,11 @@
   },
   {
     "CommandName": "tracker-owntracks",
-    "CommandData": "Remove all reference to the `owntracks` device tracker and [set up the integration](https://www.home-assistant.io/components/owntracks/)"
+    "CommandData": "Remove all reference to the `owntracks` device tracker and [set up the integration](https://home-assistant.io/integrations/owntracks)"
   },
   {
     "CommandName": "issues",
-    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\nCheck [issues for the backend](https://github.com/home-assistant/home-assistant/issues), [issues for the UI](https://github.com/home-assistant/home-assistant-polymer/issues), and [issues for the documentation](https://github.com/home-assistant/home-assistant.github.io/issues)."
+    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\nCheck [issues for the backend](https://github.com/home-assistant/core/issues), [issues for the UI](https://github.com/home-assistant/frontend/issues), and [issues for the documentation](https://github.com/home-assistant/home-assistant.io/issues)."
   },
   {
     "CommandName": "llat",
