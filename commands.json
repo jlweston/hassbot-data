@@ -485,7 +485,7 @@
   },
   {
     "CommandName": "which",
-    "CommandData": "There's no right way of installing Home Assistant - each approach has advantages and disadvantages. If you're after the appliance like experience use Hass.io, if you know (or want to know) linux, use Hassbian. Beyond that, have a look at the long [list of official options](https://home-assistant.io/docs/installation/). See [Tinkerer's take here](https://blog.ceard.tech/2017/11/which-home-assistant-install-is-right.html)"
+    "CommandData": "Not sure which install you're using? If you have add-ons, or see references to either Hass.io or Supervisor, then you're using #supervised. If you're running natively in Docker or in a venv then you have the #alternative install method"
   },
   {
     "CommandName": "forum",
