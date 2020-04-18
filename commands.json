@@ -172,14 +172,6 @@
     "CommandData": "Developer of a native Home Assistant [client for Android](https://github.com/Maxr1998/home-assistant-Android)"
   },
   {
-    "CommandName": "androidclient",
-    "CommandData": "https://github.com/Maxr1998/home-assistant-Android"
-  },
-  {
-    "CommandName": "android",
-    "CommandData": "Unoffical Home Assistant [client for Android](https://github.com/Maxr1998/home-assistant-Android)"
-  },
-  {
     "CommandName": "espeasy",
     "CommandData": "**Ready to use firmware for ESP8266 based wireless devices**\n--------------------------------------------------------------------\nWiki:\n<https://www.letscontrolit.com/wiki/index.php/ESPEasy>\n\nStable Release: \nhttp://www.letscontrolit.com/downloads/ESPEasy_R120.zip\n\nNew release candidates are on github:\nESPEasy version 2.0 and higher <https://github.com/letscontrolit/ESPEasy/releases>"
   },
@@ -392,10 +384,6 @@
     "CommandData": "Videos are great to watch but are usually out of date QUICK.... [Best to read the DOCS](https://www.home-assistant.io/docs/)"
   },
   {
-    "CommandName": "hassbian_suites",
-    "CommandData": "Hassbian suites are easy installable scripts custom made for Hassbian.\nHave a look at all the [available suites for Hassbian](https://github.com/home-assistant/hassbian-scripts) or run `hassbian-config show`"
-  },
-  {
     "CommandName": "group",
     "CommandData": "[Groups](https://home-assistant.io/components/group/) allow the user to combine multiple entities into one."
   },
@@ -593,15 +581,7 @@
   },
   {
     "CommandName": "template",
-    "CommandData": "Don't forget that when you're working with templates, you can test them in <:templates:333726940861169666>"
-  },
-  {
-    "CommandName": "stretch-aio",
-    "CommandData": "To detail, I used the AIO installer to install HA originally, and after following the link to upgrade to Stretch I then used the following commands, which after the reboot bought HA back up as it was before:\n```shell\n$ sudo mv /srv/homeassistant/homeassistant_venv /srv/homeassistant/homeassistant_venv_old\n$ sudo pip3 install --upgrade virtualenv\n$ sudo su -s /bin/bash homeassistant\n$ virtualenv -p python3 /srv/homeassistant/homeassistant_venv\n$ source /srv/homeassistant/homeassistant_venv/bin/activate\n$ pip3 install --upgrade homeassistant\n$ sudo systemctl enable home-assistant.service\n$ sudo reboot\n```\nSource: <https://community.home-assistant.io/t/rasbian-stretch/24759/19>"
-  },
-  {
-    "CommandName": "ll",
-    "CommandData": "[Lovelace](https://www.home-assistant.io/lovelace) is the new experimental UI for Home-Assistant\nIf you have any questions or issues with it, head over to <#460846676358332417>"
+    "CommandData": "When working with templates, don't forget:\n* You can test them in _Developer tools_ -> _Templates_\n* Rule 1 and rule 2 (<https://www.home-assistant.io/docs/automation/templating/#important-template-rules>)"
   },
   {
     "CommandName": "ask",
