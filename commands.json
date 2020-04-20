@@ -473,7 +473,7 @@
   },
   {
     "CommandName": "which",
-    "CommandData": "Not sure which install you're using? If you have add-ons, or see references to either Hass.io or Supervisor, then you're using #supervised. If you're running natively in Docker or in a venv then you have the #alternative install method"
+    "CommandData": "Not sure which install you're using? If you have add-ons, or see references to either Hass.io or Supervisor, then you're using <#330944238910963714>. If you're running natively in Docker or in a venv then you have the <#672217570283094017> install method"
   },
   {
     "CommandName": "forum",
