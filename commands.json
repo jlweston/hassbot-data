@@ -703,6 +703,9 @@
     "CommandName": "what",
     "CommandData": "Looking for advice about a device to buy? Remember to provide guidance on:\n* Which country you're in\n* What your budget is\n* What protocols you prefer (eg Zigbee, WiFi, Z-Wave)\n* Any features you want (such as power monitoring, dimming, etc)"
   },
-
+  {
+    "CommandName": "hassio",
+    "CommandData": "Hass.io wass the old name for the appliance like install option, that _uses_ Docker. It is now simply called Home Assistant, and Home Assistant is now called Home Assistant Core. [This blog post](https://www.home-assistant.io/blog/2020/01/29/changing-the-home-assistant-brand/) explains the renaming."
+  },
 
 ]
