@@ -5,15 +5,11 @@
   },
   {
     "CommandName": "share",
-    "CommandData": "Please use <https://www.hastebin.com/> or <https://paste.ubuntu.com/> to share code or logs."
+    "CommandData": "Please use <https://paste.ubuntu.com/> or <https://www.hastebin.com/> to share code or logs."
   },
   {
     "CommandName": "z-wave",
     "CommandData": "Z-Wave is a low power, low bandwidth, protocol for home automation devices - mostly sensors, switches, and light controls. [Click here](https://home-assistant.io/docs/z-wave/) for details on how to use it in Home Assistant, and the limitations of the Z-Wave mesh network."
-  },
-  {
-    "CommandName": "hassbian_logs",
-    "CommandData": "if you have issues when installing scripts with `hassbian-config`, you can run `hassbian-config log` to show you the last `hassbian-config` operation, or `hassbian-config share-log` to generate a hastebin link of the same log."
   },
   {
     "CommandName": "xy",
@@ -29,11 +25,11 @@
   },
   {
     "CommandName": "show_sensors",
-    "CommandData": "Paste the following code into the Template Builder (<:templates:333726940861169666> icon on the sidebar) to list all sensors and their names:\n\n```jinja\n{%- set domains = [states.sensor] %}\n{{ \\\"Entity ID\\\".ljust(50) }} {{ \\\"Entity Name\\\" }}\n{%- for domain in domains %}\n{% for item in domain %}\n{{ item.entity_id.ljust(50) }} {{ item.name }}\n{%- endfor %}\n{%- endfor %}\n```"
+    "CommandData": "Paste the following code into the Template Builder in Developer Tools to list all sensors and their names:\n\n```jinja\n{%- set domains = [states.sensor] %}\n{{ \\\"Entity ID\\\".ljust(50) }} {{ \\\"Entity Name\\\" }}\n{%- for domain in domains %}\n{% for item in domain %}\n{{ item.entity_id.ljust(50) }} {{ item.name }}\n{%- endfor %}\n{%- endfor %}\n```"
   },
   {
     "CommandName": "show_zwave",
-    "CommandData": "Paste the following code into the Template Builder (<:templates:333726940861169666> icon on the sidebar) to list all Z-Wave devices and their status:\n\n```jinja\n{{ \\\"_\\\".ljust(90, \\\"_\\\") }}\n{%- set domains = [states.zwave] %}\n{{ \\\"Entity ID\\\".ljust(50) }}{{ \\\"Entity Name\\\" }}\n{%- for domain in domains -%}\n{% for item in domain %}\n{{ \\\"_\\\".ljust(90, \\\"_\\\") }}\n{{ item.entity_id.ljust(50) }}{{ item.name }}\n{% for attrib in item.attributes %}\n{%- if attrib is defined %}\n  {{attrib.ljust(50)}}: {{ item.attributes[attrib] }}\n{%- endif %}\n{%- endfor %}\n{%- endfor %}\n{%- endfor %}\n```"
+    "CommandData": "Paste the following code into the Template Builder in Developer Tools to list all Z-Wave devices and their status:\n\n```jinja\n{{ \\\"_\\\".ljust(90, \\\"_\\\") }}\n{%- set domains = [states.zwave] %}\n{{ \\\"Entity ID\\\".ljust(50) }}{{ \\\"Entity Name\\\" }}\n{%- for domain in domains -%}\n{% for item in domain %}\n{{ \\\"_\\\".ljust(90, \\\"_\\\") }}\n{{ item.entity_id.ljust(50) }}{{ item.name }}\n{% for attrib in item.attributes %}\n{%- if attrib is defined %}\n  {{attrib.ljust(50)}}: {{ item.attributes[attrib] }}\n{%- endif %}\n{%- endfor %}\n{%- endfor %}\n{%- endfor %}\n```"
   },
   {
     "CommandName": "dependency",
@@ -69,11 +65,11 @@
   },
   {
     "CommandName": "rest_api",
-    "CommandData": "<https://home-assistant.io/developers/rest_api/>"
+    "CommandData": "<https://developers.home-assistant.io/docs/external_api_rest>"
   },
   {
     "CommandName": "config",
-    "CommandData": "Enable the \"Configuration\" section of the UI by adding `config:` to your configuration.yaml file, visit [the docs page](https://home-assistant.io/components/config/) for more info."
+    "CommandData": "Enable the \"Configuration\" section of the UI by adding `config:` to your configuration.yaml file, visit [the docs page](https://home-assistant.io/integrations/config/) for more info."
   },
   {
     "CommandName": "interference",
@@ -88,12 +84,8 @@
     "CommandData": "[HADashboard](http://appdaemon.readthedocs.io/en/latest/DASHBOARD_INSTALL.html) is a dashboard for Home Assistant that is intended to be wall mounted, and is optimized for distance viewing."
   },
   {
-    "CommandName": "hassbian_upgrade",
-    "CommandData": "[This guide](https://home-assistant.io/docs/installation/hassbian/upgrading/) explains how you upgrade hassbian."
-  },
-  {
     "CommandName": "notify",
-    "CommandData": "Have a look at the [notify configuration options](https://home-assistant.io/components/notify/)"
+    "CommandData": "Have a look at the [notify configuration options](https://home-assistant.io/integrations/notify/)"
   },
   {
     "CommandName": "homebridge_link",
@@ -213,15 +205,7 @@
   },
   {
     "CommandName": "components",
-    "CommandData": "The [complete list](https://home-assistant.io/components/) of available components"
-  },
-  {
-    "CommandName": "hassbian-config",
-    "CommandData": "`hassbian-config` Is a  package handler for the Hassbian scripts, you can use if you are running the Hassbian image. Check out [this page](https://github.com/home-assistant/hassbian-scripts/blob/master/docs/hassbian_config.md) for instructions on how to use it."
-  },
-  {
-    "CommandName": "hassbian",
-    "CommandData": "[Hassbian:](https://home-assistant.io/docs/hassbian/installation/) a custom image based on the Raspberry Lite image with Home Assistant built-in.\nIt also comes with `hassbian-config` to simplify additional installations."
+    "CommandData": "The [complete list](https://home-assistant.io/integrations/) of available integrations"
   },
   {
     "CommandName": "ben",
@@ -373,7 +357,7 @@
   },
   {
     "CommandName": "split_config",
-    "CommandData": "[Split Configuration](https://home-assistant.io/docs/configuration/splitting_configuration/)"
+    "CommandData": "Here is now to [split your configuration](https://home-assistant.io/docs/configuration/splitting_configuration/) into multiple YAML files"
   },
   {
     "CommandName": "nuc",
@@ -385,11 +369,11 @@
   },
   {
     "CommandName": "group",
-    "CommandData": "[Groups](https://home-assistant.io/components/group/) allow the user to combine multiple entities into one."
+    "CommandData": "[Groups](https://home-assistant.io/integrations/group/) allow the user to combine multiple entities into one."
   },
   {
     "CommandName": "hassio-version",
-    "CommandData": "The [latest version information](https://s3.amazonaws.com/hassio-version/stable.json) for various Hass.io components."
+    "CommandData": "The [latest version information](https://s3.amazonaws.com/hassio-version/stable.json) for various ~~Hass.io~~ Home Assistant components."
   },
   {
     "CommandName": "dale3h",
@@ -441,7 +425,7 @@
   },
   {
     "CommandName": "device_class",
-    "CommandData": "https://www.home-assistant.io/components/binary_sensor/#device-class"
+    "CommandData": "[Binary sensors](https://www.home-assistant.io/components/binary_sensor/#device-class) and [sensors](https://www.home-assistant.io/integrations/sensor#device-class) have device classes that change how things look in the frontend."
   },
   {
     "CommandName": "secrets",
@@ -573,7 +557,7 @@
   },
   {
     "CommandName": "monster-card",
-    "CommandData": "[Monster card](https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card) is a magical type of card. Because it's dynamic if you're smart about it, you can have one card that adapts and that you don't need to touch when adding new entities & sensors to your setup. Supports both inclusion and exclusion filters with wildcard for `entity_id`"
+    "CommandData": "The monster card was repalced by [auto entities](https://github.com/thomasloven/lovelace-auto-entities) which is a magical type of card. Because it's dynamic if you're smart about it, you can have one card that adapts and that you don't need to touch when adding new entities & sensors to your setup. Supports both inclusion and exclusion filters with wildcard for `entity_id`"
   },
   {
     "CommandName": "tinkerer",
@@ -673,7 +657,7 @@
   },
   {
     "CommandName": "hass_io",
-    "CommandData": "[Home Assistant](https://www.home-assistant.io) is the software we all run. [Hass.io](https://www.home-assistant.io/hassio/) is _one of_ the ways you can [install](https://www.home-assistant.io/docs/installation/) **Home Assistant**. You're still running Home Assistant."
+    "CommandData": "[Home Assistant Core](https://www.home-assistant.io) is the software we all run. [Home Assistant](https://www.home-assistant.io/hassio/) (previously called Hass.io) is _one of_ the ways you can [install](https://www.home-assistant.io/docs/installation/) **Home Assistant Core**. You're still running Home Assistant Core."
   },
   {
     "CommandName": "spam",
@@ -685,7 +669,7 @@
   },
   {
     "CommandName": "devices",
-    "CommandData": "The _Devices_ and _Entities_ views under _Configuration_ don't show every entity in your system. If you want to see everything, look under _Developer Tools_ then _States_."
+    "CommandData": "Not every entity in your system is associated with a Device. If you want to see everything, look under _Developer Tools_ then _States_ or in the _Entities_ menu under _Configuration_."
   },
   {
     "CommandName": "flippy_boi",
@@ -710,5 +694,8 @@
   {
     "CommandName": "integration",
     "CommandData": "Integrations _integrate_ Home Assistant with devices or services, or provide functionality within Home Assistant. Add-ons provide additional software or services, which an integration could possibility integrate with. Add-ons are for Home Assistant only, other install methods can install software other ways."
+  },  {
+    "CommandName": "Windows",
+    "CommandData": "Running Home Assistant in a venv on Windows isn't recommended. Not all integrations may work, because some Python packages aren't available. You should consider [using Docker](https://www.home-assistant.io/docs/installation/docker/#windows) instead, or running on a Linux host."
   },
 ]
