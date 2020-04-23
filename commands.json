@@ -702,8 +702,17 @@
   {
     "CommandName": "deconz",
     "CommandData": "[deCONZ](https://www.home-assistant.io/integrations/deconz) by dresden elektronik is a software that communicates with ConBee/RaspBee Zigbee gateways and exposes Zigbee devices that are connected to the gateway. Our <#551843655682490399> channel is a good place to ask about using it with Home Assistant, but they also have their own [Discord server](https://discord.gg/RNTwa6d)."
-  },  {
+  },
+  {
     "CommandName": "esphome",
     "CommandData": "[ESPHome](https://www.home-assistant.io/integrations/esphome/) is a system to control your ESP8266/ESP32. You can find their [documentation here](https://esphome.io/), and get help here in the <#444529271806099486> channel. They have their own [Discord server too](https://discord.gg/KhAMKrd)."
+  },
+  {
+    "CommandName": "appdaemon",
+    "CommandData": "[AppDaemon](https://appdaemon.readthedocs.io/en/latest/) is a loosely coupled, multithreaded, sandboxed python execution environment for writing automation apps. It uses the Home Assistant API (or MQTT) to communicate with HA. You can get help at [their Discord server](https://discord.gg/Mx5qafB)."
+  },
+  {
+    "CommandName": "zigbee2mqtt",
+    "CommandData": "[Zigbee2MQTT](https://www.zigbee2mqtt.io/) is a Zigbee gateway that uses MQTT to communicate with HA and supports a range of TI chipset based controllers. Our <#551843655682490399> channel is a good place to ask about using it with Home Assistant, but they also have their own [Discord server](https://discord.gg/NyseBeK)."
   },
 ]
