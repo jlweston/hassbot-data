@@ -715,4 +715,9 @@
     "CommandName": "zigbee2mqtt",
     "CommandData": "[Zigbee2MQTT](https://www.zigbee2mqtt.io/) is a Zigbee gateway that uses MQTT to communicate with HA and supports a range of TI chipset based controllers. Our <#551843655682490399> channel is a good place to ask about using it with Home Assistant, but they also have their own [Discord server](https://discord.gg/NyseBeK)."
   },
+  {
+    "CommandName": "integrations",
+    "CommandData": "Some [integrations](https://www.home-assistant.io/integrations) are added with YAML, some in the UI. Check the documentation for your integration to see which method it uses."
+  },
+  
 ]
