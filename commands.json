@@ -694,8 +694,16 @@
   {
     "CommandName": "integration",
     "CommandData": "Integrations _integrate_ Home Assistant with devices or services, or provide functionality within Home Assistant. Add-ons provide additional software or services, which an integration could possibility integrate with. Add-ons are for Home Assistant only, other install methods can install software other ways."
-  },  {
+  },
+  {
     "CommandName": "Windows",
     "CommandData": "Running Home Assistant in a venv on Windows isn't recommended. Not all integrations may work, because some Python packages aren't available. You should consider [using Docker](https://www.home-assistant.io/docs/installation/docker/#windows) instead, or running on a Linux host."
+  },
+  {
+    "CommandName": "deconz",
+    "CommandData": "[deCONZ](https://www.home-assistant.io/integrations/deconz) by dresden elektronik is a software that communicates with ConBee/RaspBee Zigbee gateways and exposes Zigbee devices that are connected to the gateway. Our <#551843655682490399> channel is a good place to ask about using it with Home Assistant, but they also have their own [Discord server](https://discord.gg/RNTwa6d)."
+  },  {
+    "CommandName": "esphome",
+    "CommandData": "[ESPHome](https://www.home-assistant.io/integrations/esphome/) is a system to control your ESP8266/ESP32. You can find their [documentation here](https://esphome.io/), and get help here in the <#444529271806099486> channel. They have their own [Discord server too](https://discord.gg/KhAMKrd)."
   },
 ]
