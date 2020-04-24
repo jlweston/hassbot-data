@@ -719,5 +719,8 @@
     "CommandName": "integrations",
     "CommandData": "Some [integrations](https://www.home-assistant.io/integrations) are added with YAML, some in the UI. Check the documentation for your integration to see which method it uses."
   },
-  
+  {
+    "CommandName": "learning",
+    "CommandData": "A learning experience is one of those things that says, _'You know that thing you just did? Don't do that.'_"
+  },
 ]
