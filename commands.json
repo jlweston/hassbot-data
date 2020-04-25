@@ -723,4 +723,8 @@
     "CommandName": "learning",
     "CommandData": "A learning experience is one of those things that says, _'You know that thing you just did? Don't do that.'_"
   },
+  {
+    "CommandName": "addon",
+    "CommandData": "An add-on is a Docker container with tweaks to allow it to be configured in the Supervisor UI. It is only available in the Supervised install since if you've used any other install method you're able to install software already."
+  },
 ]
