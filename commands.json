@@ -393,7 +393,7 @@
   },
   {
     "CommandName": "troubleshooting",
-    "CommandData": "If you're having problems with your updates to your configuration:\n* Check the [troubleshooting steps](https://home-assistant.io/docs/configuration/troubleshooting/)\n* Check your log file - remembering you may need to set [logger](https://www.home-assistant.io/integrations/logger#default) to `notice`\n* Explain what the problem you're having is - [sharing](https://paste.ubuntu.com/) configuration, errors, and logs"
+    "CommandData": "If you're having problems with your updates to your configuration:\n* Check the [troubleshooting steps](https://home-assistant.io/docs/configuration/troubleshooting/)\n* Check your log file - remembering you may need to set [logger](https://www.home-assistant.io/integrations/logger#default) to `info` or `debug`\n* Explain what the problem you're having is - [sharing](https://paste.ubuntu.com/) configuration, errors, and logs"
   },
   {
     "CommandName": "hassctl",
