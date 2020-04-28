@@ -727,4 +727,8 @@
     "CommandName": "addon",
     "CommandData": "An add-on is a Docker container with tweaks to allow it to be configured in the Supervisor UI. It is only available in the Supervised install since if you've used any other install method you're able to install software already."
   },
+  {
+    "CommandName": "advanced",
+    "CommandData": "Various settings are hidden unless your user profile has _Advanced mode_ enabled. These include some add-ons, the Lovelace _Resources_ menu, server control options, and more."
+  },
 ]
