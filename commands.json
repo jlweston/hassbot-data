@@ -731,4 +731,8 @@
     "CommandName": "advanced",
     "CommandData": "Various settings are hidden unless your user profile has _Advanced mode_ enabled. These include some add-ons, the Lovelace _Resources_ menu, server control options, and more."
   },
+  {
+    "CommandName": "atxbyea",
+    "CommandData": "There's probably nothing to see [here](https://github.com/atxbyea/HA-Config)."
+  },
 ]
