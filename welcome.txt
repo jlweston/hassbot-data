@@ -17,19 +17,19 @@ A few more **important things** to remember:
 Here are a few other Discord servers you can join:
 
 //Community hassio-addons
-https://discord.me/hassioaddons
+Community add-ons: <https://discord.me/hassioaddons>
 
 //Tasmota
-https://discord.gg/Ks2Kzd4
+Tasmota: <https://discord.gg/Ks2Kzd4>
 
 //ESPHome
-https://discord.gg/KhAMKrd
+ESPHome: <https://discord.gg/KhAMKrd>
 
 //AppDaemon
-https://discord.gg/Mx5qafB
+AppDaemon: <https://discord.gg/Mx5qafB>
 
 //Zigbee2MQTT
-https://discord.gg/NyseBeK
+Zigbee2MQTT: <https://discord.gg/NyseBeK>
 
 //deCONZ
-https://discord.gg/RNTwa6d
+deCONZ: <https://discord.gg/RNTwa6d>
