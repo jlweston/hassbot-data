@@ -549,7 +549,7 @@
   },
   {
     "CommandName": "yaml",
-    "CommandData": "[YAML](https://home-assistant.io/docs/configuration/yaml/) is the mark up language used by Home Assistant. Consistent indenting (two spaces per level) is key"
+    "CommandData": "[YAML](https://home-assistant.io/docs/configuration/yaml/) is the mark up language used by Home Assistant, consistent indenting (two spaces per level) is key. [Here](http://thomasloven.com/blog/2018/08/YAML-For-Nonprogrammers/) is a primer, and [this](https://yaml-multiline.info/) explains multi-line templates. For validating YAML see [YAML Lint](http://www.yamllint.com/)."
   },
   {
     "CommandName": "lovelace_glance",
