@@ -457,7 +457,7 @@
   },
   {
     "CommandName": "which",
-    "CommandData": "Not sure which install you're using?\n\n* If you flashed an image or booted a VM with an image you're using <#330990055533576204>\n\n* If you installed Linux and then ran a script to install HA _and_ have add-ons then you have <#330944238910963714>\n\n* If you're running `docker` commands or use a Docker manager and have _no add-ons_ then you have <#449717345808547842>\n\n* Finally, if you use `pip` to install or upgrade you have <#551864459891703809>"
+    "CommandData": "Not sure which install you're using?\n\n* If you're using HassOS, flashed an image, or booted a VM with an image you're using <#330990055533576204>\n\n* If you installed Linux and then ran a script to install HA _and_ have add-ons then you have <#330944238910963714>\n\n* If you're running `docker` commands or use a Docker manager and have _no add-ons_ then you have <#449717345808547842>\n\n* Finally, if you use `pip` to install or upgrade you have <#551864459891703809>"
   },
   {
     "CommandName": "forum",
