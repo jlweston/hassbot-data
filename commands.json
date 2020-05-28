@@ -457,7 +457,7 @@
   },
   {
     "CommandName": "which",
-    "CommandData": "Not sure which install you're using? If you have add-ons, or see references to either Hass.io or Supervisor, then you're using <#330944238910963714>. If you're running natively in Docker or in a venv then you have the <#672217570283094017> install method"
+    "CommandData": "Not sure which install you're using?\n\nIf you flashed an image or booted a VM with an image you're using <#330990055533576204>\nIf you installed Linux and then ran a script to install HA _and_ have add-ons then you have <#330944238910963714>\nIf you're running `docker` commands or use a Docker manager and have _no add-ons_ then you have <#449717345808547842>\nFinally, if you use `pip` to install or upgrade you have <#551864459891703809>"
   },
   {
     "CommandName": "forum",
