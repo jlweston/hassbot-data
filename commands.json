@@ -753,7 +753,7 @@
   },
   {
     "CommandName": "tagging",
-    "CommandData": "Generally, don't tag people to ask for help - it comes across as bad manners, you’re demanding somebody answers you. It’s different if you’re thanking somebody, obviously. If you do tag somebody keep it polite and respectful. Remember that everybody is a volunteer, and nobody _has_ to help you, and people may block you.\n\nSimilarly, please don’t DM (direct message) people asking for help. It also comes across as demanding, and means that others can’t learn from what you do."
+    "CommandData": "Generally, don't tag people to ask for help - it comes across as bad manners, you’re demanding somebody answers you. It’s different if you’re thanking somebody, obviously. If you do tag somebody keep it polite and respectful. Remember that everybody is a volunteer, and nobody _has_ to help you, and people may block you.\n\nSimilarly, please don’t DM (direct message) people asking for help. It also comes across as demanding, and means that others can’t learn from what you do.\n\nFinally, please keep tagging people in replies to a minimum. That too can become annoying very quickly and should be used only when it's necessary (such as if it's been a long time, or there's multiple conversations going on)."
   },
   {
     "CommandName": "latest",
