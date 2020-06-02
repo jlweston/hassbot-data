@@ -12,7 +12,8 @@ A few more **important things** to remember:
 1. A maximum of 10-15 lines of code can be posted. For code that is more than 15 lines, please use https://paste.ubuntu.com
 2. Please make sure you format the code when pasting. Use markdown language when pasting code.
 3. See #rules-and-welcome
-4. Don't tag people to request help, it tends to come across poorly, like you're demanding help. Keep tagging for thanking people for help, or if there's overlapping conversations going on. 
+4. Please don't crosspost, pick the most relevant channel (see their topics), post there, and be patient.
+5. Don't tag people to request help, it tends to come across poorly, like you're demanding help. Keep tagging for thanking people for help, or if there's overlapping conversations going on. 
 
 Here are a few other Discord servers you can join:
 
