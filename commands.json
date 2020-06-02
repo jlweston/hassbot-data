@@ -513,7 +513,7 @@
   },
   {
     "CommandName": "jinja",
-    "CommandData": "[Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)\nFor more examples and samples, visit see [this page](httpshttps://github.com/skalavala/mysmarthome/tree/master/jinja_helpers#jinja-code-for-ninjas)"
+    "CommandData": "[Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)\nFor more examples and samples, visit see [this page](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers#jinja-code-for-ninjas)"
   },
   {
     "CommandName": "repos",
