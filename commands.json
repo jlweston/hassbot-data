@@ -261,7 +261,7 @@
   },
   {
     "CommandName": "tasmota",
-    "CommandData": "***Ready to use custom firmware for Sonoff Devices***\n--------------------------------------------------------------------\nDocs: \n<https://tasmota.github.io/docs/>\n\nDiscord: \n<https://discord.gg/Ks2Kzd4>"
+    "CommandData": "***Ready to use custom firmware for ESP8266 devices (including Sonoff)***\n--------------------------------------------------------------------\nDocs: \n<https://tasmota.github.io/docs/>\n\nDiscord: \n<https://discord.gg/Ks2Kzd4>"
   },
   {
     "CommandName": "for-sale",
