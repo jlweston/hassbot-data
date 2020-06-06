@@ -645,7 +645,7 @@
   },
   {
     "CommandName": "hacs",
-    "CommandData": "[Home Assistant Community Store](https://hacs.xyz/) is the successor to the old Custom Updater, and can do so much more - you should check it out."
+    "CommandData": "[Home Assistant Community Store](https://hacs.xyz/) is the successor to the old Custom Updater, and can do so much more - you should check it out. They even have a [Discord server](https://discord.gg/apgchf8) for issues with HACS itself."
   },
   {
     "CommandName": "irc",
