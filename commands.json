@@ -761,6 +761,6 @@
   },
   {
     "CommandName": "malformed",
-    "CommandData": "**Oh boy!** :scream:\\n\\n`database disk image is malformed` tell you that your database file has been corrupted :cry: \\n But do not worry, there is an easy fix :tada:\\n1. Delete the `home-assistant_v2.db` file in the same folder as `configuration.yaml`\\n2. Restart Home Assistant.\\n_Sidenote: this will cause you to lose all your history, but it's broken anyway, so just do it."
+    "CommandData": "**Oh boy!** :scream:\n\n`database disk image is malformed` tell you that your database file has been corrupted :cry: \n But do not worry, there is an easy fix :tada:\n1. Delete the `home-assistant_v2.db` file in the same folder as `configuration.yaml`\n2. Restart Home Assistant.\n_Sidenote: this will cause you to lose all your history, but it's broken anyway, so just do it."
   },
 ]
