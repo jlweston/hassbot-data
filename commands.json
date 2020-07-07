@@ -689,7 +689,7 @@
   },
   {
     "CommandName": "hassio",
-    "CommandData": "Hass.io was the old name for the appliance like install option, that _uses_ Docker. It is now simply called _Home Assistant_ (and the previous _Home Assistant_ is now called _Home Assistant Core_).\n\n[This blog post](https://www.home-assistant.io/blog/2020/01/29/changing-the-home-assistant-brand/) explains the renaming."
+    "CommandData": "Hass.io was the old name for the appliance like install option, that _uses_ Docker. It is now simply called _Home Assistant OS_ (see <#330990055533576204>)."
   },
   {
     "CommandName": "integration",
