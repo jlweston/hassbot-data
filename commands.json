@@ -775,4 +775,8 @@
     "CommandName": "works",
     "CommandData": "Want to know if something works with Home Assistant? Here's a few things to try:\n\n1. Look at the [integrations list](https://www.home-assistant.io/integrations)\n2. Search [community forum](https://community.home-assistant.io/)\n3. Try Googling _Home Assistant MYDEVICE_ or _MYDEVICE Python_"
   },
+  {
+    "CommandName": "pinned",
+    "CommandData": "See the pinned messages"
+  },
 ]
