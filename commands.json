@@ -313,7 +313,7 @@
   },
   {
     "CommandName": "faq",
-    "CommandData": "There is a [list of FAQs](https://home-assistant.io/faq/), including one explaining the difference between [Home Assistant (the software) and Hass.io (an installer)](https://www.home-assistant.io/faq/#home-assistant-vs-hassio). There is also a [glossary](https://www.home-assistant.io/docs/glossary/) explaining many common terms."
+    "CommandData": "There is a [list of FAQs](https://home-assistant.io/faq/), including one explaining the difference between [Home Assistant (the software) and Home Assistant OS (an installer)](https://www.home-assistant.io/faq/#home-assistant-vs-hassio). There is also a [glossary](https://www.home-assistant.io/docs/glossary/) explaining many common terms."
   },
   {
     "CommandName": "persistence",
@@ -373,7 +373,7 @@
   },
   {
     "CommandName": "hassio-version",
-    "CommandData": "The [latest version information](https://s3.amazonaws.com/hassio-version/stable.json) for various ~~Hass.io~~ Home Assistant components."
+    "CommandData": "The [latest version information](https://s3.amazonaws.com/hassio-version/stable.json) for various Home Assistant OS components."
   },
   {
     "CommandName": "dale3h",
@@ -489,7 +489,7 @@
   },
   {
     "CommandName": "backup",
-    "CommandData": "Be sure to regularly, automatically, back up your Home Assistant install. There are various critical files and configuration options (like the Z-Wave network key), plus all your time. Hass.io has snapshots, and for unix type installs see [this page](https://blog.ceard.tech/2017/10/backing-up-home-assistant.html).  Oh, and most important of all **test your ability to restore regularly**."
+    "CommandData": "Be sure to regularly, automatically, back up your Home Assistant install. There are various critical files and configuration options (like the Z-Wave network key), plus all your time. Home Assistant OS and Supervised have snapshots, and for unix type installs see [this page](https://blog.ceard.tech/2017/10/backing-up-home-assistant.html).  Oh, and most important of all **test your ability to restore regularly**."
   },
   {
     "CommandName": "flowolf",
@@ -637,7 +637,7 @@
   },
   {
     "CommandName": "explain",
-    "CommandData": "[This forum post](https://community.home-assistant.io/t/how-to-help-us-help-you-or-how-to-ask-a-good-question/114371) covers the things we need to know to help you. Key things are the version of _Home Assistant_ you're running, how you installed it (Hassbian, Hass.io, etc), the exact component you're having problems with (eg _Nest climate_ rather than _climate_), and details of the problem (ideally with any error message in full)."
+    "CommandData": "[This forum post](https://community.home-assistant.io/t/how-to-help-us-help-you-or-how-to-ask-a-good-question/114371) covers the things we need to know to help you. Key things are the version of _Home Assistant_ you're running, how you installed it (Home Assistant OS, Supervised, Container, Core), the exact component you're having problems with (eg _Nest climate_ rather than _climate_), and details of the problem (ideally with any error message in full)."
   },
   {
     "CommandName": "ludeeus",
@@ -677,7 +677,7 @@
   },
   {
     "CommandName": "zigbee",
-    "CommandData": "There are three Zigbee options with Home Assistant (regardless of how you install it). These are:\n\n[deCONZ](https://www.home-assistant.io/integrations/deconz/) is relatively stable and mature with its own UI. It can run in an add-on, in a Docker container, or natively. Known working devices are documented, and how to request support for a new device is documented too (you can't add unsupported devices yourself).\n\n[zha](https://www.home-assistant.io/integrations/zha/) is actively developed as part of Home Assistant Core, using the zigpy stack, the UI also being part of Home Assistant. There is no list of supported devices, as any standards compliant device should work. Devices that require extra support are listed, and adding unsupported devices is documented (you can't add unsupported devices yourself).\n\n[Zigbee2MQTT](https://www.zigbee2mqtt.io/) is very actively developed and can run in an add-on for Hass.io, in a Docker container, and natively, with no native UI. It uses MQTT for control and configuration, but there are third party UIs. The known working devices are well documented (which usually includes how to pair them so you don't have to find the manual), and adding unsupported devices is also documented."
+    "CommandData": "There are three Zigbee options with Home Assistant (regardless of how you install it). These are:\n\n[deCONZ](https://www.home-assistant.io/integrations/deconz/) is relatively stable and mature with its own UI. It can run in an add-on, in a Docker container, or natively. Known working devices are documented, and how to request support for a new device is documented too (you can't add unsupported devices yourself).\n\n[zha](https://www.home-assistant.io/integrations/zha/) is actively developed as part of Home Assistant Core, using the zigpy stack, the UI also being part of Home Assistant. There is no list of supported devices, as any standards compliant device should work. Devices that require extra support are listed, and adding unsupported devices is documented (you can't add unsupported devices yourself).\n\n[Zigbee2MQTT](https://www.zigbee2mqtt.io/) is very actively developed and can run in an add-on, in a Docker container, and natively, with no native UI. It uses MQTT for control and configuration, but there are third party UIs. The known working devices are well documented (which usually includes how to pair them so you don't have to find the manual), and adding unsupported devices is also documented."
   },
   {
     "CommandName": "codewall",
