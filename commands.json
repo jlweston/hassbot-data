@@ -785,7 +785,6 @@
   },
   {
     "CommandName": "hadebug",
-    "CommandData": "To enable debug for the deCONZ addon in Home-Assistant, add the following to your configuration.yaml:```yaml\n    logger:\n      default: info\n      logs:\n        pydeconz: debug\n        homeassistant.components.deconz: debug\n```"
+    "CommandData": "To enable debug for the deCONZ addon in Home-Assistant, add the following to your configuration.yaml:```yaml\nlogger:\n  default: info\n  logs:\n    pydeconz: debug\n    homeassistant.components.deconz: debug\n```"
   },
-    
 ]
