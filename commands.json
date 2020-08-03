@@ -783,5 +783,9 @@
     "CommandName": "flooding",
     "CommandData": "**[Rule #6](https://discordapp.com/channels/330944238910963714/331130181102206976/461249903478439937):** Spam will not be tolerated, including but not limited to: self-promotion, ***flooding*** (posting lots of shorter messages), text walls (longer than 15 lines) and unapproved bots.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
   },
-
+  {
+    "CommandName": "hadebug",
+    "CommandData": "To enable debug for the deCONZ addon in Home-Assistant, add the following to your configuration.yaml:```yaml\n    logger:\n      default: info\n      logs:\n        pydeconz: debug\n        homeassistant.components.deconz: debug\n```"
+  },
+    
 ]
