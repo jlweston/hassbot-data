@@ -783,4 +783,8 @@
     "CommandName": "hadebug",
     "CommandData": "To enable debug for the deCONZ integration in Home-Assistant, add the following to your configuration.yaml:```yaml\nlogger:\n  default: info\n  logs:\n    pydeconz: debug\n    homeassistant.components.deconz: debug\n```"
   },
+  {
+    "CommandName": "features",
+    "CommandData": "If you have a feature request for the frontend you can open [one here](https://github.com/home-assistant/frontend/issues), for Home Assistant itself please [post on the forum](https://community.home-assistant.io/c/feature-requests/13). All other feature requests should be made to the developer of that custom card/component."
+  },
 ]
