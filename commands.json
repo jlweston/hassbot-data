@@ -745,7 +745,7 @@
   },
   {
     "CommandName": "pickyourstick",
-    "CommandData": "418 I'm a teapot"
+    "CommandData": "Nope. The command you want is still `.zigbee`, or even `~zigbee`."
   },
   {
     "CommandName": "tagging",
