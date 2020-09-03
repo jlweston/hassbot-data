@@ -469,7 +469,7 @@
   },
   {
     "CommandName": "rules",
-    "CommandData": "5 Rules for better support:\n```\n1. Be very specific about the issue/problem you are facing (A problem clearly stated is a problem half solved)\n2. Absolutely NO negative comments or thoughts about individuals, developers or the community\n3. Read the documentation (RTFM). It is an open source product, you are allowed to contribute, but not whine\n4. Every setup is unique in its own way. Share your config, code, logs and other relevant info via hastebin.com\n5. Keep the channel live by being friendly, offer help where you can, learn when you can't!\n```\nWe are thankful to all the members who dedicate their personal time helping others."
+    "CommandData": "5 Rules for better support:\n\n1. Be very specific about the issue/problem you are facing (a problem clearly stated is a problem half solved)\n2. Absolutely NO negative comments about individuals, developers or the community\n3. Read the [documentation](https://www.home-assistant.io/docs/) (RTFM). It is an open source product, you are allowed to contribute, but not whine\n4. Every setup is unique in its own way. Share your config, code, logs and other relevant info via https://hasteb.in/ or https://paste.ubuntu.com/ - don't post walls of text in the channels\n5. Keep the channel live by being friendly, offer help where you can, learn when you can't!\n6. Remember to review <#331130181102206976>\n\nWe are thankful to all the members who dedicate their personal time helping others."
   },
   {
     "CommandName": "dshokouhi",
