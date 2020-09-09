@@ -1,7 +1,7 @@
 [
   {
     "CommandName": "help",
-    "CommandData": "[Click here](https://github.com/skalavala/HassBot#home-assistant-discord-bot) for help with Hassbot, or use the [command cheatsheet](https://github.com/skalavala/HassBot/blob/master/skalavala_hassbot-commands.pdf)"
+    "CommandData": "To see the list of available commands, most of them anyway, [see here](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json)."
   },
   {
     "CommandName": "share",
