@@ -581,7 +581,7 @@
   },
   {
     "CommandName": "issues",
-    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\n* [The core (backend)](https://github.com/home-assistant/core/issues)\n* [The frontend (UI)](https://github.com/home-assistant/frontend/issues)\n* [The Supervisor](https://github.com/home-assistant/supervisor)\n* [HassOS](https://github.com/home-assistant/operating-system/issues)\n* [The documentation](https://github.com/home-assistant/home-assistant.io/issues)\n\nFinally, don't forget to check for any [alerts](https://alerts.home-assistant.io/)"
+    "CommandData": "Want to see what issues are open (or were open and are now closed)?\n\n* [The core (backend)](https://github.com/home-assistant/core/issues) - for HA itself, and integrations\n* [The frontend (UI)](https://github.com/home-assistant/frontend/issues) - for cards and display issues\n* [The Supervisor](https://github.com/home-assistant/supervisor)\n* [HassOS](https://github.com/home-assistant/operating-system/issues)\n* [The documentation](https://github.com/home-assistant/home-assistant.io/issues)\n\nFinally, don't forget to check for any [alerts](https://alerts.home-assistant.io/)"
   },
   {
     "CommandName": "llat",
