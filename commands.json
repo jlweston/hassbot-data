@@ -794,5 +794,9 @@
 	{
 		"CommandName": "best",
 		"CommandData": "There is no universal _best_ anything. There's always trade-offs, you need to explain:\n\n* Your priorities/desired features\n* Where in the world you are\n* Your budget\n* Any protocols that you'd prefer (eg Zigbee) or want to avoid (eg Zigbee)"
+	},
+	{
+		"CommandName": "unique_id",
+		"CommandData": "Please see the [faq entry](https://www.home-assistant.io/faq/#this-entity-does-not-have-a-unique-id) about that message."
 	}
 ]
