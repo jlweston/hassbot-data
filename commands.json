@@ -791,12 +791,16 @@
     "CommandName": "weather",
     "CommandData": "There is no universal _best_ [weather integration](https://www.home-assistant.io/integrations#weather). Which one works best _for you_ depends on where you live - try them all and see which is generally the most accurate."
   },
-	{
-		"CommandName": "best",
-		"CommandData": "There is no universal _best_ anything. There's always trade-offs, you need to explain:\n\n* Your priorities/desired features\n* Where in the world you are\n* Your budget\n* Any protocols that you'd prefer (eg Zigbee) or want to avoid (eg Zigbee)"
-	},
-	{
-		"CommandName": "unique_id",
-		"CommandData": "Please see the [faq entry](https://www.home-assistant.io/faq/#this-entity-does-not-have-a-unique-id) about that message."
-	}
+  {
+	"CommandName": "best",
+	"CommandData": "There is no universal _best_ anything. There's always trade-offs, you need to explain:\n\n* Your priorities/desired features\n* Where in the world you are\n* Your budget\n* Any protocols that you'd prefer (eg Zigbee) or want to avoid (eg Zigbee)"
+  },
+  {
+	"CommandName": "unique_id",
+	"CommandData": "Please see the [faq entry](https://www.home-assistant.io/faq/#this-entity-does-not-have-a-unique-id) about that message."
+  },
+  {
+	"CommandName": "swag",
+	"CommandData": "[Secure Web Application Gateway](https://docs.linuxserver.io/general/swag) sets up an Nginx webserver and reverse proxy with php support and a built-in certbot client that automates free SSL server certificate generation and renewal processes. It also contains fail2ban for intrusion prevention."
+  }
 ]
