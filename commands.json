@@ -561,7 +561,7 @@
   },
   {
     "CommandName": "template",
-    "CommandData": "When working with templates, don't forget:\n* You can test them in _Developer tools_ -> _Templates_\n* Rule 1 and rule 2 (<https://www.home-assistant.io/docs/automation/templating/#important-template-rules>)"
+    "CommandData": "When working with templates, don't forget:\n* You can test them in _Developer tools_ -> _Templates_\n* HA before 0.115: rule 1 and rule 2 (<https://www.home-assistant.io/docs/automation/templating/#important-template-rules>)"
   },
   {
     "CommandName": "ask",
