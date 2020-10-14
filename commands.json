@@ -802,5 +802,9 @@
   {
 	"CommandName": "swag",
 	"CommandData": "[Secure Web Application Gateway](https://docs.linuxserver.io/general/swag) sets up an Nginx webserver and reverse proxy with php support and a built-in certbot client that automates free SSL server certificate generation and renewal processes. It also contains fail2ban for intrusion prevention."
+  },
+  {
+	"CommandName": "tts",
+	"CommandData": "If `tts` isn't working in your media players (and on a Google device at most you get a _bloop_), then the problem is most likely down to SSL. If you're using SSL in HA make sure that your `external_url` is correctly set, and that `internal_url` matches it. Alternatively set [`base_url`](https://www.home-assistant.io/integrations/tts#base_url) in the `tts` integration to your SSL URL."
   }
 ]
