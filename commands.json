@@ -461,7 +461,7 @@
   },
   {
     "CommandName": "thoughts",
-    "CommandData": "Please don't use the support channel to think out aloud. Go through the basic troubleshooting steps and then highlight the specific problem that you are facing. We don't have access to your system and it is hard for people to imagine what may be going on."
+    "CommandData": "Please don't use the channels to think out aloud. Go through the basic troubleshooting steps and then highlight the specific problem that you are facing. We don't have access to your system and it is hard for people to imagine what may be going on."
   },
   {
     "CommandName": "json",
