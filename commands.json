@@ -1,5 +1,9 @@
 [
   {
+    "CommandName": "format",
+    "CommandData": "To format your text as code, enter three backticks on the first line, press Enter for a new line, paste your code, press Enter again for another new line, and lastly three more backticks. [Here's an example](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/format.gif)"
+  },
+  {
     "CommandName": "help",
     "CommandData": "To see the list of available commands, most of them anyway, [see here](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json)."
   },
