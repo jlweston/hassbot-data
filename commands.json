@@ -806,5 +806,9 @@
   {
 	"CommandName": "tts",
 	"CommandData": "If `tts` isn't working in your media players (and on a Google device at most you get a _bloop_), then the problem is most likely down to SSL. If you're using SSL in HA make sure that your `external_url` is correctly set, and that `internal_url` matches it. Alternatively set [`base_url`](https://www.home-assistant.io/integrations/tts#base_url) in the `tts` integration to your SSL URL."
+  },
+  {
+	  "CommandName": "elevation",
+	  "CommandData": "Why use the [sun elevation trigger](https://www.home-assistant.io/docs/automation/trigger/#sun-elevation-trigger) or [condition](https://www.home-assistant.io/docs/scripts/conditions/#sun-elevation-condition) rather than a time offset from sunset or sunrise? Because the elevation more consistently relates to the light level than a fixed time offset. An hour before sunset is very different light levels on the longest day than the shortest day, for example."
   }
 ]
