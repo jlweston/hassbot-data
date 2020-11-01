@@ -764,14 +764,6 @@
     "CommandData": "**Oh boy!** :scream:\n\n`database disk image is malformed` tells you that your database file has been corrupted :cry:\nBut do not worry, there is an easy fix :tada:\n1. Delete the `home-assistant_v2.db` file in the same folder as `configuration.yaml`\n2. Restart Home Assistant.\n\n_Sidenote: this will cause you to lose all your history, but it's broken anyway, so just do it._"
   },
   {
-    "CommandName": "disable_ch",
-    "CommandData": "**Disabling Custom Header**\n\nThis is one of the first things mentioned on CH's [Forum post](https://community.home-assistant.io/t/custom-header), [Github readme](https://github.com/maykar/custom-header/blob/master/README.md), [Docs](https://maykar.github.io/custom-header), [important notes](https://maykar.github.io/custom-header/#intro/notes), and UI Editor.\n\nEvery option that can remove your ability to access UI elements is marked with a warning in the docs and UI editor with a link to [this page explaining how to disable CH](https://maykar.github.io/custom-header/#intro/notes)."
-  },
-  {
-    "CommandName": "custom-header",
-    "CommandData": "[Custom Header](https://github.com/maykar/custom-header) adds enhancements and customization options to Home Assistant's Lovelace header. Features include: styling/hiding of all header elements, dynamic changes with Jinja templates, per user/device configs, compact mode, footer mode, split mode, and more."
-  },
-  {
     "CommandName": "works",
     "CommandData": "Want to know if something works with Home Assistant? Here's a few things to try:\n\n1. Look at the [integrations list](https://www.home-assistant.io/integrations)\n2. Search [community forum](https://community.home-assistant.io/)\n3. Try Googling _Home Assistant MYDEVICE_ or _MYDEVICE Python_"
   },
