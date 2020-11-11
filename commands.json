@@ -806,5 +806,9 @@
   {
 	  "CommandName": "elevation",
 	  "CommandData": "Why use the [sun elevation trigger](https://www.home-assistant.io/docs/automation/trigger/#sun-elevation-trigger) or [condition](https://www.home-assistant.io/docs/scripts/conditions/#sun-elevation-condition) rather than a time offset from sunset or sunrise? Because the elevation more consistently relates to the light level than a fixed time offset. An hour before sunset is very different light levels on the longest day than the shortest day, for example."
+  },
+  {
+	  "CommandName": "everything",
+	  "CommandData": "No, there isn't actually a bot command for everything"
   }
 ]
