@@ -814,5 +814,9 @@
   {
 	  "CommandName": "cc253x",
 	  "CommandData": "The CC2531 and CC2530 sticks are cheap for a reason. They're fine for testing, but do yourself a favour and buy something better."
+  },
+  {
+	  "CommandName": "patience",
+	  "CommandData": "People (and other sentient or vaguely intelligent beings) aren't waiting here for your questions, ready to leap upon them the moment they appear. Have a little patience."
   }
 ]
