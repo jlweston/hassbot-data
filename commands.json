@@ -660,10 +660,6 @@
     "CommandData": "[Home Assistant Core](https://www.home-assistant.io) is the software we all run. [Home Assistant](https://www.home-assistant.io/hassio/) (previously called Hass.io) is _one of_ the ways you can [install](https://www.home-assistant.io/docs/installation/) **Home Assistant Core**. You're still running Home Assistant Core."
   },
   {
-    "CommandName": "spam",
-    "CommandData": "**Rule #6:** Spam will not be tolerated, including but not limited to: self-promotion, flooding, codewalls (longer than 15 lines) and unapproved bots.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
-  },
-  {
     "CommandName": "tediore",
     "CommandData": "It's dangerous to go alone! Check out my [GitHub](https://github.com/Tediore/My-HASS-config)."
   },
@@ -818,5 +814,9 @@
   {
 	  "CommandName": "patience",
 	  "CommandData": "People (and other sentient or vaguely intelligent beings) aren't waiting here for your questions, ready to leap upon them the moment they appear. Have a little patience."
+  },
+  {
+    "CommandName": "spam",
+    "CommandData": "You can report spam [Directly to Discord](https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety) and they can act against the account. On this server we can ban the user if you provide a screenshot of the spam and the user's handle (eg @spammer#123) in <#397426163649216512>."
   }
 ]
