@@ -818,5 +818,9 @@
   {
     "CommandName": "spam",
     "CommandData": "You can report spam [Directly to Discord](https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety) and they can act against the account. On this server we can ban the user if you provide a screenshot of the spam and the user's handle (eg @spammer#123) in <#397426163649216512>."
+  },
+  {
+    "CommandName": "states",
+    "CommandData": "The _States_ screen (under _Developer Tools_) is your truth table for what Home Assistant knows. Every entity is listed here, along with the state the system knows (instead of the translated value you see elsewhere), and all attributes."
   }
 ]
