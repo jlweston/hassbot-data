@@ -822,5 +822,9 @@
   {
     "CommandName": "states",
     "CommandData": "The _States_ screen (under _Developer Tools_) is your truth table for what Home Assistant knows. Every entity is listed here, along with the state the system knows (instead of the translated value you see elsewhere), and all attributes."
+  },
+  {
+    "CommandName": "docker",
+    "CommandData": "If you're using any of the install methods that use Docker (basically everything but HA Core) then Home Assistant runs in a container that only shares a limited number of folders with the host (or add-ons if you use those). If you're working with files outside of `/config/` or certain other folders then those only exist _in that container_ and other containers won't see them.\n\nThis is commonly experienced when using shell scripts or camera snapshot services, when you create a file in `/root` or `/tmp` and then can't find it in another container."
   }
 ]
