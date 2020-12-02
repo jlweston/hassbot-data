@@ -5,7 +5,7 @@
   },
   {
     "CommandName": "help",
-    "CommandData": "To see the list of available commands, most of them anyway, [see here](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/commands.json)."
+    "CommandData": "Welcome to the Home Assistant Discord.\n\nPlease remember to read <#331130181102206976> and the welcome message that the bot (that'd be me) DMd you.\n\nEvery channel has a topic that explains what's on topic, and provides other information. Many also have pinned messages that can help you.\n\nWhen you're done reading this, head over to <#397426163649216512> and say hi."
   },
   {
     "CommandName": "share",
