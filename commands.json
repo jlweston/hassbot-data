@@ -253,7 +253,7 @@
   },
   {
     "CommandName": "discovery",
-    "CommandData": "Discovery shouldn't be run in a production environment. Relying on discovery leaves the possibility that something may be missed or may be configured differently when it returns.\n\nIt is recommended to turn discovery on only to find new devices and retrieve the required information so that you can manually configure the devices."
+    "CommandData": "MQTT Discovery requires that the devices (or software) support HA's [MQTT Discovery](https://www.home-assistant.io/docs/mqtt/discovery/) and that it's enabled in HA _and_ the device (or software)."
   },
   {
     "CommandName": "input_number",
