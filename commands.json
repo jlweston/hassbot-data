@@ -745,7 +745,7 @@
   },
   {
     "CommandName": "pickyourstick",
-    "CommandData": "Nope. The command you want is still `.zigbee`, or even `~zigbee`."
+    "CommandData": "This command exists purely for Mimiix, because he couldn't remember `.zigbee`. Don't see him around so much any more though, maybe he also forgot where the server is?"
   },
   {
     "CommandName": "tagging",
