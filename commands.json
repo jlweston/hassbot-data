@@ -649,7 +649,7 @@
   },
   {
     "CommandName": "irc",
-    "CommandData": "Discord isn't like IRC, you don't have to tag people on every response. Keep in mind that every time you tag somebody, they get a notification ping. That can very quickly become annoying and people may block you."
+    "CommandData": "Discord isn't like IRC, you don't have to tag people on every response. Keep in mind that every time you tag somebody, they get a notification ping. That can very quickly become annoying and people may block you.\n\nWhen using Discord's new _Reply_ feature it defaults to pinging the person you reply to, click `@ ON` to `@ OFF` to stop this - on the right side of the compose bar."
   },
   {
     "CommandName": "moved",
