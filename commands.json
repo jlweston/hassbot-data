@@ -830,5 +830,9 @@
   {
     "CommandName": "blue",
     "CommandData": "If you bought a Home Assistant Blue and are having trouble with the install itself, or questions about the Blue, please see <#330990055533576204>."
+  },
+  {
+    "CommandName": "security",
+    "CommandData": "If you have questions about the security bulletin the only place to find the answers is [in the blog post](https://www.home-assistant.io/blog/2021/01/14/security-bulletin/). If the information isn't there we can't tell you, because we don't know either."
   }
 ]
