@@ -833,6 +833,6 @@
   },
   {
     "CommandName": "security",
-    "CommandData": "If you have questions about the security bulletin the only place to find the answers is in [the blog post](https://www.home-assistant.io/blog/2021/01/14/security-bulletin/). If the information isn't there we can't tell you, because we don't know either.\n\nPS: We also don't know when it'll be updated."
+    "CommandData": "If you have questions about the security bulletin the only place to find the answers is in [the blog post](https://www.home-assistant.io/blog/2021/01/14/security-bulletin/). If the information isn't there we can't tell you, because we don't know either.\n\nPS: We also don't know when it'll be updated.\n\nIf you have any questions, they're best asked on the linked [forum thread](https://community.home-assistant.io/t/security-bulletin/268456/)."
   }
 ]
