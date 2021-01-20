@@ -842,5 +842,9 @@
   {
     "CommandName": "lost_supervised",
     "CommandData": "Oh, hi there :wave: You seem to be lost.\n\nI know the naming convention for the install methods is confusing. Having Core be a method and the software are the heart of it all doesn't help. That and having three methods that _use_ Docker.\n\nHowever, this isn't your install method, so we can't really help you effectively here. You should head over to <#330944238910963714> where people know Home Assistant Supervised and can help you.\n\nIf you want to mute and hide this channel before you go then you won't end up here in error again, and should get help faster."
+  },
+  {
+    "CommandName": "lost",
+    "CommandData": "Oh, hi there :wave: You seem to be lost.\n\nI know the naming convention for the install methods is confusing. Having Core be a method and the software are the heart of it all doesn't help. That and having three methods that _use_ Docker.\n\nHowever, this isn't your install method, so we can't really help you effectively here. Look in _Configuration -> Info_ for your _Installation Method_ and then go to the channel with that name. There you'll find people who know your method and can help you.\n\nIf you want to mute and hide this channel before you go then you won't end up here in error again, and should get help faster."
   }
 ]
