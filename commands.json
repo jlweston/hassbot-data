@@ -834,5 +834,13 @@
   {
     "CommandName": "security",
     "CommandData": "If you have questions about the security bulletin the only place to find the answers is in [the blog post](https://www.home-assistant.io/blog/2021/01/14/security-bulletin/). If the information isn't there we can't tell you, because we don't know either.\n\nPS: We also don't know when it'll be updated.\n\nIf you have any questions, they're best asked on the linked [forum thread](https://community.home-assistant.io/t/security-bulletin/268456/)."
+  },
+  {
+    "CommandName": "lost_os",
+    "CommandData": "Oh, hi there :wave: You seem to be lost.\n\nI know the naming convention for the install methods is confusing. Having Core be a method and the software are the heart of it all doesn't help. That and having three methods that _use_ Docker.\n\nHowever, this isn't your install method, so we can't really help you effectively here. You should head over to <#330990055533576204> where people know Home Assistant OS and can help you.\n\nIf you want to mute and hide this channel before you go then you won't end up here in error again, and should get help faster."
+  },
+  {
+    "CommandName": "lost_supervised",
+    "CommandData": "Oh, hi there :wave: You seem to be lost.\n\nI know the naming convention for the install methods is confusing. Having Core be a method and the software are the heart of it all doesn't help. That and having three methods that _use_ Docker.\n\nHowever, this isn't your install method, so we can't really help you effectively here. You should head over to <#330944238910963714> where people know Home Assistant Supervised and can help you.\n\nIf you want to mute and hide this channel before you go then you won't end up here in error again, and should get help faster."
   }
 ]
