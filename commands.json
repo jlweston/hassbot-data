@@ -389,7 +389,7 @@
   },
   {
     "CommandName": "crosspost",
-    "CommandData": "**Please DO NOT cross post.**  Read the channel description, post it and wait for folks to respond."
+    "CommandData": "**Please DO NOT cross post.**  Read the channel description, post it and wait for folks to respond.\n\nIf you don't get any responses after an hour or more, and your message is no longer on screen, it is fine to re-post or post a link to it."
   },
   {
     "CommandName": "troubleshooting",
