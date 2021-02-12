@@ -373,7 +373,7 @@
   },
   {
     "CommandName": "rule5",
-    "CommandData": "**Rule #5:** <#330990195199442944> is for **development discussion only**. <#330944238910963714> is for common discussion, support questions, and lending help to others. Please use the appropriate channel as it pertains to the nature of your discussion.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
+    "CommandData": "**Rule #5:** Channels starting with `#dev` are for **development discussion only**. <#397426163649216512> is for non Home Assistant related chat. Please use the appropriate channel as it pertains to the nature of your discussion.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
   },
   {
     "CommandName": "ccostan",
