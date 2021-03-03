@@ -782,5 +782,9 @@
   {
     "CommandName": "lost",
     "CommandData": "Oh, hi there :wave: You seem to be lost.\n\nI know the naming convention for the install methods is confusing. Having Core be a method and the software are the heart of it all doesn't help. That and having three methods that _use_ Docker.\n\nHowever, this isn't your install method, so we can't really help you effectively here. Look in _Configuration -> Info_ for your _Installation Method_ and then go to the channel with that name. There you'll find people who know your method and can help you.\n\nIf you want to mute and hide this channel before you go then you won't end up here in error again, and should get help faster."
+  },
+  {
+    "CommandName": "reply",
+    "CommandData": "When using Discord's new _Reply_ feature it defaults to pinging the person you reply to, click `@ ON` to `@ OFF` to stop this - on the right side of the compose bar."
   }
 ]
