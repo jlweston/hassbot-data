@@ -513,7 +513,7 @@
   },
   {
     "CommandName": "images",
-    "CommandData": "Please use [imgur](https://imgur.com/) or other image sharing web sites, and share the link here."
+    "CommandData": "Please use [imgur](https://imgur.com/) or other image sharing web sites, and share the link here.\n\nImage posting is blocked in most channels to discourage people from sharing text as images."
   },
   {
     "CommandName": "tracker-owntracks",
