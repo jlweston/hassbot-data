@@ -637,7 +637,7 @@
   },
   {
     "CommandName": "esphome",
-    "CommandData": "[ESPHome](https://www.home-assistant.io/integrations/esphome/) is a system to control your ESP8266/ESP32, with a [native integration](https://www.home-assistant.io/integrations/esphome/) for Home Assistant.\n\nYou can find their [documentation here](https://esphome.io/), and get help with ESPHome itself here in the <#444529271806099486> channel (<#672220541343760384> for the integration). They also have their own [Discord server too](https://discord.gg/KhAMKrd)."
+    "CommandData": "[ESPHome](https://www.home-assistant.io/integrations/esphome/) is a system to control your ESP8266/ESP32, with a [native integration](https://www.home-assistant.io/integrations/esphome/) for Home Assistant.\n\nYou can find their [documentation here](https://esphome.io/), and get help with ESPHome itself here in the <#444529271806099486> channel (<#672220541343760384> for the Home Assistant side integration with it). They also have their own [Discord server too](https://discord.gg/KhAMKrd)."
   },
   {
     "CommandName": "appdaemon",
