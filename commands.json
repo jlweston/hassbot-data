@@ -729,7 +729,7 @@
   },
   {
 	"CommandName": "swag",
-	"CommandData": "[Secure Web Application Gateway](https://docs.linuxserver.io/general/swag) sets up an Nginx webserver and reverse proxy with php support and a built-in certbot client that automates free SSL server certificate generation and renewal processes. It also contains fail2ban for intrusion prevention."
+	"CommandData": "[Secure Web Application Gateway](https://docs.linuxserver.io/general/swag) aka SWAG - is the easiest way of setting up a reverse proxy server with SSL (using Certbot and LetsEncrypt) for your Docker based install. See [their documentation](https://docs.linuxserver.io/general/swag) on it, and if you get stuck they also have [a Discord server](https://discord.gg/YWrKVTn) and [forum](https://docs.linuxserver.io/general/swag)."
   },
   {
 	"CommandName": "tts",
