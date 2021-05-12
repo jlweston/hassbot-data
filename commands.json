@@ -790,5 +790,9 @@
   {
     "CommandName": "raccoon",
     "CommandData": "There can be only one."
+  },
+  {
+    "CommandName": "zigbeestick",
+    "CommandData": "For Zigbee2MQTT any CC2652p (or CC2652) based stick is a good choice. Those are also a good choice for ZHA, which also supports the EmberZNet sticks ([see here for some details](https://github.com/Koenkk/zigbee-herdsman/issues/319#issuecomment-789757269)). Don't pick the cheap CC2530/CC2531 sticks, and avoid the Sonoff Zigbee bridge since Zigbee and WiFi aren't friends. If you're not using deCONZ avoid the ConBee and RaspBee devices."
   }
 ]
