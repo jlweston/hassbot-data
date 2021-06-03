@@ -105,7 +105,7 @@
   },
   {
     "CommandName": "jinja2",
-    "CommandData": "Jinja is used by Home Assistant's template engine, see the [Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)"
+    "CommandData": "Jinja is used by Home Assistant's template engine, see the [Jinja Template Designer Documentation](https://jinja.palletsprojects.com/en/latest/templates/)"
   },
   {
     "CommandName": "aiohttp_bug",
