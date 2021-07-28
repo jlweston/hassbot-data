@@ -745,7 +745,7 @@
   },
   {
 	  "CommandName": "cc253x",
-	  "CommandData": "The CC2531 and CC2530 sticks are cheap for a reason. They're fine for testing, but do yourself a favour and buy something better."
+	  "CommandData": "The CC2531 and CC2530 sticks are cheap for a reason. They're fine for testing, but do yourself a favour and buy something better.\n\nWhat something better? Anything CC2652 based ([see here for some](https://www.zigbee2mqtt.io/information/supported_adapters.html)) or the current generation EZSP ([see here for some](https://github.com/Koenkk/zigbee-herdsman/issues/319#issuecomment-789757269)).\n\nThe Sonoff ZBbridge isn't advised since it uses WiFi, and the HUSBZB-1 uses an older chipset so should be avoided."
   },
   {
 	  "CommandName": "patience",
