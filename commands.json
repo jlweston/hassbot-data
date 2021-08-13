@@ -681,7 +681,7 @@
   },
   {
     "CommandName": "pickyourstick",
-    "CommandData": "This command exists purely for Mimiix, because he couldn't remember `.zigbee`. Don't see him around so much any more though, maybe he also forgot where the server is?"
+    "CommandData": "Buy something CC2652 based. [This list](https://www.zigbee2mqtt.io/information/supported_adapters.html) is a good one, both Tube and Electrolama have been proven to have excellent customer service."
   },
   {
     "CommandName": "tagging",
