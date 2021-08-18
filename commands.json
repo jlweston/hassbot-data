@@ -533,7 +533,7 @@
   },
   {
     "CommandName": "check",
-    "CommandData": "***Always*** run the [configuration check *command*](<https://www.home-assistant.io/docs/configuration/troubleshooting/#problems-with-the-configuration>) when you make changes. Don't trust the UI check - it misses some problems."
+    "CommandData": "***Always*** run the configuration check *command* when you make changes. Don't trust the UI check - it misses some problems.\n\n* HAOS & Supervised use [`ha core check`](https://www.home-assistant.io/common-tasks/os/#configuration-check)\n* Container uses [`docker` commands](https://www.home-assistant.io/common-tasks/container/#configuration-check)\n* Core requires you to [activate the venv first](https://www.home-assistant.io/common-tasks/core/#configuration-check)"
   },
   {
     "CommandName": "list",
