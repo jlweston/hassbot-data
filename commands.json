@@ -9,7 +9,7 @@
   },
   {
     "CommandName": "share",
-    "CommandData": "Please use <https://paste.ubuntu.com/> to share code or logs. Please don't use Pastebin, since it can randomly add spaces to the main view."
+    "CommandData": "Please use <https://hastebin.com/> or <https://paste.ubuntu.com/> to share code or logs. Please don't use Pastebin, since it can randomly add spaces to the main view."
   },
   {
     "CommandName": "z-wave",
