@@ -1,7 +1,7 @@
 [
   {
     "CommandName": "format",
-    "CommandData": "To format your text as code, enter three backticks on the first line, press Enter for a new line, paste your code, press Enter again for another new line, and lastly three more backticks. [Here's an example](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/format.gif)\n\nDon't forget you can edit your post rather than repeatedly posting the same thing.\n\n**For over 15 lines** you must use a code share site such as <https://paste.ubuntu.com/>."
+    "CommandData": "To format your text as code, enter three backticks on the first line, press Enter for a new line, paste your code, press Enter again for another new line, and lastly three more backticks. [Here's an example](https://raw.githubusercontent.com/awesome-automations/hassbot-data/master/format.gif)\n\nDon't forget you can edit your post rather than repeatedly posting the same thing.\n\n**For over 15 lines** you must use a code share site such as <https://www.codepile.net/> or <https://hastebin.com/>."
   },
   {
     "CommandName": "help",
@@ -9,7 +9,7 @@
   },
   {
     "CommandName": "share",
-    "CommandData": "Please use <https://hastebin.com/> or <https://paste.ubuntu.com/> to share code or logs. Please don't use Pastebin, since it can randomly add spaces to the main view."
+    "CommandData": "Please use <https://www.codepile.net/>, <https://hastebin.com/> or <https://paste.ubuntu.com/> to share code or logs. Please don't use Pastebin, since it can randomly add spaces to the main view."
   },
   {
     "CommandName": "z-wave",
