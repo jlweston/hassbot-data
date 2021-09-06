@@ -21,7 +21,7 @@
   },
   {
     "CommandName": "show_sensors",
-    "CommandData": "Paste the following code into the Template Builder in Developer Tools to list all sensors and their names:\n\n```jinja\n{%- set domains = [states.sensor] %}\n{{ \\\"Entity ID\\\".ljust(50) }} {{ \\\"Entity Name\\\" }}\n{%- for domain in domains %}\n{% for item in domain %}\n{{ item.entity_id.ljust(50) }} {{ item.name }}\n{%- endfor %}\n{%- endfor %}\n```"
+    "CommandData": "Paste the following code into the Template Builder in Developer Tools to list all sensors and their names:\n\n```\n{%- set domains = [states.sensor] %}\n{{ \\\"Entity ID\\\".ljust(50) }} {{ \\\"Entity Name\\\" }}\n{%- for domain in domains %}\n{% for item in domain %}\n{{ item.entity_id.ljust(50) }} {{ item.name }}\n{%- endfor %}\n{%- endfor %}\n```"
   },
   {
     "CommandName": "show_zwave",
@@ -69,7 +69,7 @@
   },
   {
     "CommandName": "entity_count",
-    "CommandData": "To get the total number of entities in your Home Assistant setup, use this <:templates:333726940861169666> template:\n```jinja\n{{ states|list|length }}\n```"
+    "CommandData": "To get the total number of entities in your Home Assistant setup, use this <:templates:333726940861169666> template:\n```\n{{ states|list|length }}\n```"
   },
   {
     "CommandName": "customizer",
@@ -449,7 +449,7 @@
   },
   {
     "CommandName": "jinja",
-    "CommandData": "[Jinja Template Designer Documentation](https://jinja.palletsprojects.com/en/latest/templates/)\n\nFor more examples and samples, visit see [this page](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers#jinja-code-for-ninjas)."
+    "CommandData": "[Jinja Template Designer Documentation](https://jinja.palletsprojects.com/en/latest/templates/)\n\nMuch of the power of Jinja comes from its [filters](https://jinja.palletsprojects.com/en/latest/templates/#list-of-builtin-filters) and [tests](https://jinja.palletsprojects.com/en/latest/templates/#list-of-builtin-tests).\n\nFor more examples and samples, visit see [this page](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers#jinja-code-for-ninjas)."
   },
   {
     "CommandName": "repos",
